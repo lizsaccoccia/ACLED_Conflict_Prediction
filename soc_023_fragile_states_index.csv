@@ -1,0 +1,2137 @@
+the_geom,cartodb_id,country,datetime,rank_data,score_data,rw_country_code,rw_country_name
+,2,Bolivia,2006,56th,82.9,BOL,Bolivia
+,947,Kenya,2011,16th,98.7,KEN,Kenya
+,1520,Syria,2014,15th,101.6,SYR,Syria
+,1888,Uzbekistan,2016,60th,83.5,UZB,Uzbekistan
+,1,Netherlands,2006,134th,28.1,NLD,Netherlands
+,3,Greece,2006,121st,41.1,GRC,Greece
+,4,Libya,2006,95th,68.5,LBY,Libya
+,5,Moldova,2006,57th,82.5,MDA,Moldova
+,6,Maldives,2006,,,MDV,Maldives
+,7,Malaysia,2006,98th,66.1,MYS,Malaysia
+,8,Sweden,2006,144th,18.2,SWE,Sweden
+,9,Mongolia,2006,108th,58.4,MNG,Mongolia
+,10,Mali,2006,81st,74.6,MLI,Mali
+,11,Tunisia,2006,100th,65.4,TUN,Tunisia
+,12,Qatar,2006,,,QAT,Qatar
+,13,Turkmenistan,2006,45th,86.1,TKM,Turkmenistan
+,14,Azerbaijan,2006,61st,81.9,AZE,Azerbaijan
+,15,Australia,2006,140th,22.0,AUS,Australia
+,16,Angola,2006,37th,88.3,AGO,Angola
+,17,Albania,2006,94th,68.6,ALB,Albania
+,18,Algeria,2006,72nd,77.8,DZA,Algeria
+,19,Belarus,2006,50th,84.5,BLR,Belarus
+,20,Barbados,2006,,,BRB,Barbados
+,21,Bahrain,2006,,,BHR,Bahrain
+,22,Benin,2006,90th,70.9,BEN,Benin
+,23,Bosnia and Herzegovina,2006,35th,88.5,BIH,Bosnia and Herzegovina
+,24,Botswana,2006,96th,66.9,BWA,Botswana
+,25,Bulgaria,2006,103rd,62.1,BGR,Bulgaria
+,26,Brazil,2006,101st,63.1,BRA,Brazil
+,27,Burkina Faso,2006,30th,89.7,BFA,Burkina Faso
+,28,Democratic Republic of the COngo,2006,2nd,110.1,COD,Democratic Republic of the Congo
+,29,China,2006,57th,82.5,CHN,China
+,30,Chad,2006,6th,105.9,TCD,Chad
+,31,Denmark,2006,137th,24.8,DNK,Denmark
+,32,Cuba,2006,61st,81.9,CUB,Cuba
+,33,Dominican Republic,2006,47th,85.0,DOM,Dominican Republic
+,34,Czech Republic,2006,119th,41.8,CZE,Czech Republic
+,35,Cote d'Ivoire,2006,3rd,109.2,CIV,Ivory Coast
+,36,Croatia,2006,104th,61.9,HRV,Croatia
+,37,Ecuador,2006,63rd,81.2,ECU,Ecuador
+,38,Egypt,2006,31st,89.5,EGY,Egypt
+,39,France,2006,129th,34.3,FRA,France
+,40,Fiji,2006,,,FJI,Fiji
+,41,Finland,2006,144th,18.2,FIN,Finland
+,42,Estonia,2006,111th,51.0,EST,Estonia
+,43,Ethiopia,2006,26th,91.9,ETH,Ethiopia
+,44,Gabon,2006,84th,73.6,GAB,Gabon
+,45,Eritrea,2006,54th,83.9,ERI,Eritrea
+,46,Ghana,2006,106th,60.5,GHA,Ghana
+,47,Iran,2006,52nd,84.0,IRN,Iran
+,48,Hungary,2006,116th,46.7,HUN,Hungary
+,49,Iceland,2006,,,ISL,Iceland
+,50,Indonesia,2006,32nd,89.2,IDN,Indonesia
+,51,Iraq,2006,4th,109.0,IRQ,Iraq
+,52,India,2006,93rd,70.4,IND,India
+,53,Italy,2006,127th,35.1,ITA,Italy
+,54,Ireland,2006,143rd,18.6,IRL,Ireland
+,55,Honduras,2006,75th,76.7,HND,Honduras
+,56,Latvia,2006,109th,56.2,LVA,Latvia
+,57,Kenya,2006,33rd,88.6,KEN,Kenya
+,58,Japan,2006,135th,28.0,JPN,Japan
+,59,Kazakhstan,2006,88th,71.9,KAZ,Kazakhstan
+,60,Kyrgyz Republic,2006,28th,90.3,KGZ,Kyrgyzstan
+,61,Laos,2006,39th,87.9,LAO,Laos
+,62,Liberia,2006,11th,99.0,LBR,Liberia
+,63,Malta,2006,41st,87.8,MLT,Malta
+,64,Mexico,2006,85th,73.1,MEX,Mexico
+,65,Morocco,2006,76th,76.5,MAR,Morocco
+,66,Nigeria,2006,22nd,94.4,NGA,Nigeria
+,67,Nicaragua,2006,59th,82.4,NIC,Nicaragua
+,68,Niger,2006,44th,87.0,NER,Niger
+,69,New Zealand,2006,141st,19.4,NZL,New Zealand
+,70,Myanmar,2006,18th,96.5,MMR,Myanmar
+,71,Nepal,2006,20th,95.4,NPL,Nepal
+,72,North Korea,2006,14th,97.3,PRK,North Korea
+,73,Namibia,2006,91st,70.7,NAM,Namibia
+,74,Mozambique,2006,80th,74.8,MOZ,Mozambique
+,75,Norway,2006,146th,16.8,NOR,Norway
+,76,Papua New Guinea,2006,49th,84.6,PNG,Papua New Guinea
+,77,Pakistan,2006,9th,103.1,PAK,Pakistan
+,78,Panama,2006,107th,59.6,PAN,Panama
+,79,Oman,2006,117th,43.8,OMN,Oman
+,80,Senegal,2006,98th,66.1,SEN,Senegal
+,81,Russia,2006,43rd,87.1,RUS,Russia
+,82,Serbia,2006,55th,83.8,SRB,Republic of Serbia
+,83,Saudi Arabia,2006,73rd,77.2,SAU,Saudi Arabia
+,84,Romania,2006,102nd,62.6,ROU,Romania
+,85,Spain,2006,125th,37.4,ESP,Spain
+,86,Slovenia,2006,126th,36.8,SVN,Slovenia
+,87,South Korea,2006,123rd,39.9,KOR,South Korea
+,88,Somalia,2006,6th,105.9,SOM,Somalia
+,89,South Sudan,2006,,,SSD,South Sudan
+,90,Sierra Leone,2006,16th,96.6,SLE,Sierra Leone
+,91,South Africa,2006,110th,55.7,ZAF,South Africa
+,92,Slovak Republic,2006,112th,49.9,SVK,Slovakia
+,93,Solomon Islands,2006,,,SLB,Solomon Islands
+,94,Suriname,2006,,,SUR,Suriname
+,95,Swaziland,2006,,,SWZ,Swaziland
+,96,Syria,2006,33rd,88.6,SYR,Syria
+,97,Switzerland,2006,142nd,18.7,CHE,Switzerland
+,98,Antigua and Barbuda,2006,,,ATG,Antigua and Barbuda
+,99,Congo,2006,,,COG,Republic of Congo
+,100,Germany,2006,124th,39.7,DEU,Germany
+,101,Guinea Bissau,2006,46th,85.4,GNB,Guinea Bissau
+,102,Georgia,2006,60th,82.2,GEO,Georgia
+,103,Turkey,2006,82nd,74.4,TUR,Turkey
+,104,United Kingdom,2006,130th,34.2,GBR,United Kingdom
+,105,Vietnam,2006,70th,78.6,VNM,Vietnam
+,106,Yemen,2006,16th,96.6,YEM,Yemen
+,107,Zambia,2006,66th,79.6,ZMB,Zambia
+,108,Uzbekistan,2006,22nd,94.4,UZB,Uzbekistan
+,109,Uruguay,2006,120th,41.2,URY,Uruguay
+,110,Venezuela,2006,63rd,81.2,VEN,Venezuela
+,111,Zimbabwe,2006,5th,108.9,ZWE,Zimbabwe
+,112,United States,2006,128th,34.5,USA,United States of America
+,113,Brunei Darussalam,2006,,,BRN,Brunei
+,114,Canada,2006,139th,23.1,CAN,Canada
+,115,Armenia,2006,89th,71.5,ARM,Armenia
+,116,Austria,2006,136th,26.1,AUT,Austria
+,117,Afghanistan,2006,10th,99.8,AFG,Afghanistan
+,118,Argentina,2006,122nd,40.8,ARG,Argentina
+,119,Bhutan,2006,39th,87.9,BTN,Bhutan
+,120,Belgium,2006,138th,24.0,BEL,Belgium
+,121,Bahamas,2006,,,BHS,The Bahamas
+,122,Bangladesh,2006,19th,96.3,BGD,Bangladesh
+,123,Belize,2006,,,BLZ,Belize
+,124,Cambodia,2006,47th,85.0,KHM,Cambodia
+,125,Cameroon,2006,36th,88.4,CMR,Cameroon
+,126,Guyana,2006,,,GUY,Guyana
+,127,Cape Verde,2006,,,CPV,Cape Verde
+,128,Sao Tome and Principe,2006,,,STP,Sao Tome and Principe
+,129,Burundi,2006,15th,96.7,BDI,Burundi
+,130,Colombia,2006,27th,91.8,COL,Colombia
+,131,Comoros,2006,,,COM,Comoros
+,132,Central African Republic,2006,13th,97.5,CAF,Central African Republic
+,133,Chile,2006,132nd,32.0,CHL,Chile
+,134,Costa Rica,2006,114th,49.6,CRI,Costa Rica
+,135,Cyprus,2006,92nd,70.5,CYP,Cyprus
+,136,Djibouti,2006,,,DJI,Djibouti
+,137,Equatorial Guinea,2006,52nd,84.0,GNQ,Equatorial Guinea
+,138,Gambia,2006,83rd,74.0,GMB,Gambia
+,139,Grenada,2006,,,GRD,Grenada
+,140,El Salvador,2006,77th,76.1,SLV,El Salvador
+,141,Haiti,2006,8th,104.6,HTI,Haiti
+,142,Guatemala,2006,51st,84.3,GTM,Guatemala
+,143,Guinea,2006,11th,99.0,GIN,Guinea
+,144,Israel,2006,67th,79.4,ISR,Israel
+,145,Jordan,2006,74th,77.0,JOR,Jordan
+,146,Kuwait,2006,105th,60.8,KWT,Kuwait
+,147,Luxembourg,2006,,,LUX,Luxembourg
+,148,Madagascar,2006,,,MDG,Madagascar
+,149,Jamaica,2006,97th,66.8,JAM,Jamaica
+,150,Micronesia,2006,,,FSM,Federated States of Micronesia
+,151,Lebanon,2006,65th,80.5,LBN,Lebanon
+,152,Lithuania,2006,113th,49.7,LTU,Lithuania
+,153,Malawi,2006,29th,89.8,MWI,Malawi
+,154,Mauritius,2006,118th,41.9,MUS,Mauritius
+,155,Lesotho,2006,,,LSO,Lesotho
+,156,Mauritania,2006,,,MRT,Mauritania
+,157,Poland,2006,115th,47.9,POL,Poland
+,158,Portugal,2006,131st,32.7,PRT,Portugal
+,159,Peru,2006,68th,79.2,PER,Peru
+,160,Paraguay,2006,87th,72.0,PRY,Paraguay
+,161,Philippines,2006,68th,79.2,PHL,Philippines
+,162,Macedonia,2006,78th,75.1,MKD,Macedonia
+,163,Tajikistan,2006,42nd,87.7,TJK,Tajikistan
+,164,Montenegro,2006,,,MNE,Montenegro
+,165,Rwanda,2006,24th,92.9,RWA,Rwanda
+,166,Samoa,2006,,,WSM,Samoa
+,167,Seychelles,2006,,,SYC,Seychelles
+,168,Singapore,2006,133rd,30.8,SGP,Singapore
+,169,Tanzania,2006,71st,78.3,TZA,United Republic of Tanzania
+,170,Thailand,2006,79th,74.9,THA,Thailand
+,171,Sudan,2006,1st,112.3,SDN,Sudan
+,172,Sri Lanka,2006,25th,92.4,LKA,Sri Lanka
+,173,Timor-Leste,2006,,,TLS,Timor-Leste
+,174,Togo,2006,37th,88.3,TGO,Togo
+,175,Trinidad and Tobago,2006,,,TTO,Trinidad and Tobago
+,176,Uganda,2006,21st,94.5,UGA,Uganda
+,177,United Arab Emirates,2006,,,ARE,United Arab Emirates
+,178,Ukraine,2006,86th,72.9,UKR,Ukraine
+,179,Netherlands,2007,162nd,28.6,NLD,Netherlands
+,180,Bolivia,2007,59th,82.0,BOL,Bolivia
+,181,Greece,2007,146th,43.5,GRC,Greece
+,182,Libya,2007,114th,69.3,LBY,Libya
+,183,Moldova,2007,48th,85.7,MDA,Moldova
+,184,Maldives,2007,66th,81.1,MDV,Maldives
+,185,Malaysia,2007,119th,65.9,MYS,Malaysia
+,186,Sweden,2007,174th,19.3,SWE,Sweden
+,187,Mongolia,2007,131st,58.4,MNG,Mongolia
+,188,Mali,2007,90th,75.5,MLI,Mali
+,189,Tunisia,2007,121st,65.6,TUN,Tunisia
+,190,Qatar,2007,136th,53.6,QAT,Qatar
+,191,Turkmenistan,2007,43rd,87.5,TKM,Turkmenistan
+,192,Azerbaijan,2007,62nd,81.2,AZE,Azerbaijan
+,193,Australia,2007,168th,23.2,AUS,Australia
+,194,Angola,2007,53rd,84.9,AGO,Angola
+,195,Albania,2007,110th,70.5,ALB,Albania
+,196,Algeria,2007,88th,75.9,DZA,Algeria
+,197,Belarus,2007,51st,85.2,BLR,Belarus
+,198,Barbados,2007,129th,59.9,BRB,Barbados
+,199,Bahrain,2007,133rd,57.0,BHR,Bahrain
+,200,Benin,2007,103rd,72.0,BEN,Benin
+,201,Bosnia and Herzegovina,2007,54th,84.5,BIH,Bosnia and Herzegovina
+,202,Botswana,2007,118th,66.4,BWA,Botswana
+,203,Bulgaria,2007,127th,60.3,BGR,Bulgaria
+,204,Brazil,2007,116th,66.9,BRA,Brazil
+,205,Burkina Faso,2007,33rd,89.7,BFA,Burkina Faso
+,206,Democratic Republic of the COngo,2007,7th,105.5,COD,Democratic Republic of the Congo
+,207,China,2007,62nd,81.2,CHN,China
+,208,Chad,2007,5th,108.8,TCD,Chad
+,209,Denmark,2007,169th,22.2,DNK,Denmark
+,210,Cuba,2007,76th,78.6,CUB,Cuba
+,211,Dominican Republic,2007,69th,80.6,DOM,Dominican Republic
+,212,Czech Republic,2007,148th,42.1,CZE,Czech Republic
+,213,Cote d'Ivoire,2007,6th,107.3,CIV,Ivory Coast
+,214,Croatia,2007,126th,60.5,HRV,Croatia
+,215,Ecuador,2007,72nd,79.9,ECU,Ecuador
+,216,Egypt,2007,36th,89.2,EGY,Egypt
+,217,France,2007,156th,34.1,FRA,France
+,218,Fiji,2007,89th,75.7,FJI,Fiji
+,219,Finland,2007,175th,18.5,FIN,Finland
+,220,Estonia,2007,140th,50.5,EST,Estonia
+,221,Ethiopia,2007,18th,95.3,ETH,Ethiopia
+,222,Gabon,2007,98th,73.3,GAB,Gabon
+,223,Eritrea,2007,50th,85.5,ERI,Eritrea
+,224,Ghana,2007,124th,61.9,GHA,Ghana
+,225,Iran,2007,57th,82.8,IRN,Iran
+,226,Hungary,2007,138th,51.2,HUN,Hungary
+,227,Iceland,2007,170th,21.1,ISL,Iceland
+,228,Indonesia,2007,55th,84.4,IDN,Indonesia
+,229,Iraq,2007,2nd,111.4,IRQ,Iraq
+,230,India,2007,109th,70.8,IND,India
+,231,Italy,2007,155th,37.1,ITA,Italy
+,232,Ireland,2007,173rd,19.5,IRL,Ireland
+,233,Honduras,2007,93rd,74.8,HND,Honduras
+,234,Latvia,2007,134th,56.7,LVA,Latvia
+,235,Kenya,2007,31st,91.3,KEN,Kenya
+,236,Japan,2007,163rd,28.5,JPN,Japan
+,237,Kazakhstan,2007,102nd,72.3,KAZ,Kazakhstan
+,238,Kyrgyz Republic,2007,41st,88.2,KGZ,Kyrgyzstan
+,239,Laos,2007,44th,87.2,LAO,Laos
+,240,Liberia,2007,27th,92.9,LBR,Liberia
+,241,Malta,2007,143rd,48.5,MLT,Malta
+,242,Mexico,2007,101st,72.6,MEX,Mexico
+,243,Morocco,2007,85th,76.0,MAR,Morocco
+,244,Nigeria,2007,17th,95.6,NGA,Nigeria
+,245,Nicaragua,2007,71st,80.0,NIC,Nicaragua
+,246,Niger,2007,32nd,91.2,NER,Niger
+,247,New Zealand,2007,171st,20.5,NZL,New Zealand
+,248,Myanmar,2007,14th,97.0,MMR,Myanmar
+,249,Nepal,2007,21st,93.6,NPL,Nepal
+,250,North Korea,2007,13th,97.7,PRK,North Korea
+,251,Namibia,2007,106th,71.3,NAM,Namibia
+,252,Mozambique,2007,80th,76.9,MOZ,Mozambique
+,253,Norway,2007,176th,17.1,NOR,Norway
+,254,Papua New Guinea,2007,52nd,85.1,PNG,Papua New Guinea
+,255,Pakistan,2007,12th,100.1,PAK,Pakistan
+,256,Panama,2007,130th,59.4,PAN,Panama
+,257,Oman,2007,145th,45.5,OMN,Oman
+,258,Senegal,2007,116th,66.9,SEN,Senegal
+,259,Russia,2007,62nd,81.2,RUS,Russia
+,260,Serbia,2007,66th,81.1,SRB,Republic of Serbia
+,261,Saudi Arabia,2007,82nd,76.5,SAU,Saudi Arabia
+,262,Romania,2007,125th,60.9,ROU,Romania
+,263,Spain,2007,152nd,39.2,ESP,Spain
+,264,Slovenia,2007,154th,37.5,SVN,Slovenia
+,265,South Korea,2007,151st,39.7,KOR,South Korea
+,266,Somalia,2007,3rd,111.1,SOM,Somalia
+,267,South Sudan,2007,,,SSD,South Sudan
+,268,Sierra Leone,2007,23rd,93.4,SLE,Sierra Leone
+,269,South Africa,2007,132nd,57.4,ZAF,South Africa
+,270,Slovak Republic,2007,141st,49.3,SVK,Slovakia
+,271,Solomon Islands,2007,30th,92.0,SLB,Solomon Islands
+,272,Suriname,2007,95th,73.9,SUR,Suriname
+,273,Swaziland,2007,61st,81.3,SWZ,Swaziland
+,274,Syria,2007,40th,88.6,SYR,Syria
+,275,Switzerland,2007,172nd,20.2,CHE,Switzerland
+,276,Antigua and Barbuda,2007,120th,65.7,ATG,Antigua and Barbuda
+,277,Congo,2007,26th,93.0,COG,Republic of Congo
+,278,Germany,2007,153rd,38.4,DEU,Germany
+,279,Guinea Bissau,2007,38th,88.8,GNB,Guinea Bissau
+,280,Georgia,2007,58th,82.3,GEO,Georgia
+,281,Turkey,2007,91st,74.9,TUR,Turkey
+,282,United Kingdom,2007,156th,34.1,GBR,United Kingdom
+,283,Vietnam,2007,78th,77.8,VNM,Vietnam
+,284,Yemen,2007,24th,93.2,YEM,Yemen
+,285,Zambia,2007,69th,80.6,ZMB,Zambia
+,286,Uzbekistan,2007,22nd,93.5,UZB,Uzbekistan
+,287,Uruguay,2007,150th,40.9,URY,Uruguay
+,288,Venezuela,2007,73rd,79.8,VEN,Venezuela
+,289,Zimbabwe,2007,4th,110.1,ZWE,Zimbabwe
+,290,United States,2007,159th,33.6,USA,United States of America
+,291,Brunei Darussalam,2007,108th,71.2,BRN,Brunei
+,292,Canada,2007,167th,25.1,CAN,Canada
+,293,Armenia,2007,111th,70.3,ARM,Armenia
+,294,Austria,2007,165th,26.0,AUT,Austria
+,295,Afghanistan,2007,8th,102.3,AFG,Afghanistan
+,296,Argentina,2007,149th,41.4,ARG,Argentina
+,297,Bhutan,2007,47th,86.4,BTN,Bhutan
+,298,Belgium,2007,166th,25.5,BEL,Belgium
+,299,Bahamas,2007,128th,60.1,BHS,The Bahamas
+,300,Bangladesh,2007,16th,95.9,BGD,Bangladesh
+,301,Belize,2007,113th,69.8,BLZ,Belize
+,302,Cambodia,2007,48th,85.7,KHM,Cambodia
+,303,Cameroon,2007,35th,89.4,CMR,Cameroon
+,304,Guyana,2007,98th,73.3,GUY,Guyana
+,305,Cape Verde,2007,66th,81.1,CPV,Cape Verde
+,306,Sao Tome and Principe,2007,76th,78.6,STP,Sao Tome and Principe
+,307,Burundi,2007,19th,95.2,BDI,Burundi
+,308,Colombia,2007,33rd,89.7,COL,Colombia
+,309,Comoros,2007,78th,77.8,COM,Comoros
+,310,Central African Republic,2007,10th,101.0,CAF,Central African Republic
+,311,Chile,2007,158th,33.8,CHL,Chile
+,312,Costa Rica,2007,139th,50.5,CRI,Costa Rica
+,313,Cyprus,2007,112th,70.2,CYP,Cyprus
+,314,Djibouti,2007,70th,80.3,DJI,Djibouti
+,315,Equatorial Guinea,2007,41st,88.2,GNQ,Equatorial Guinea
+,316,Gambia,2007,85th,76.0,GMB,Gambia
+,317,Grenada,2007,104th,71.6,GRD,Grenada
+,318,El Salvador,2007,91st,74.9,SLV,El Salvador
+,319,Haiti,2007,11th,100.9,HTI,Haiti
+,320,Guatemala,2007,60th,81.4,GTM,Guatemala
+,321,Guinea,2007,9th,101.3,GIN,Guinea
+,322,Israel,2007,74th,79.6,ISR,Israel
+,323,Jordan,2007,81st,76.6,JOR,Jordan
+,324,Kuwait,2007,123rd,62.1,KWT,Kuwait
+,325,Luxembourg,2007,164th,28.1,LUX,Luxembourg
+,326,Madagascar,2007,82nd,76.5,MDG,Madagascar
+,327,Jamaica,2007,122nd,65.1,JAM,Jamaica
+,328,Micronesia,2007,97th,73.5,FSM,Federated States of Micronesia
+,329,Lebanon,2007,28th,92.4,LBN,Lebanon
+,330,Lithuania,2007,142nd,49.0,LTU,Lithuania
+,331,Malawi,2007,29th,92.2,MWI,Malawi
+,332,Mauritius,2007,147th,42.7,MUS,Mauritius
+,333,Lesotho,2007,62nd,81.2,LSO,Lesotho
+,334,Mauritania,2007,45th,86.7,MRT,Mauritania
+,335,Poland,2007,144th,47.6,POL,Poland
+,336,Portugal,2007,161st,32.4,PRT,Portugal
+,337,Peru,2007,84th,76.4,PER,Peru
+,338,Paraguay,2007,100th,72.9,PRY,Paraguay
+,339,Philippines,2007,56th,83.2,PHL,Philippines
+,340,Macedonia,2007,94th,74.1,MKD,Macedonia
+,341,Tajikistan,2007,39th,88.7,TJK,Tajikistan
+,342,Montenegro,2007,135th,55.6,MNE,Montenegro
+,343,Rwanda,2007,36th,89.2,RWA,Rwanda
+,344,Samoa,2007,96th,73.8,WSM,Samoa
+,345,Seychelles,2007,106th,71.3,SYC,Seychelles
+,346,Singapore,2007,160th,33.0,SGP,Singapore
+,347,Tanzania,2007,75th,79.3,TZA,United Republic of Tanzania
+,348,Thailand,2007,85th,76.0,THA,Thailand
+,349,Sudan,2007,1st,113.7,SDN,Sudan
+,350,Sri Lanka,2007,25th,93.1,LKA,Sri Lanka
+,351,Timor-Leste,2007,20th,94.9,TLS,Timor-Leste
+,352,Togo,2007,46th,86.6,TGO,Togo
+,353,Trinidad and Tobago,2007,115th,67.6,TTO,Trinidad and Tobago
+,354,Uganda,2007,15th,96.4,UGA,Uganda
+,355,United Arab Emirates,2007,137th,51.6,ARE,United Arab Emirates
+,356,Ukraine,2007,105th,71.4,UKR,Ukraine
+,357,Netherlands,2008,166th,27.3,NLD,Netherlands
+,358,Bolivia,2008,55th,84.2,BOL,Bolivia
+,359,Greece,2008,147th,45.4,GRC,Greece
+,360,Libya,2008,111th,70.0,LBY,Libya
+,361,Moldova,2008,49th,85.7,MDA,Moldova
+,362,Maldives,2008,67th,80.4,MDV,Maldives
+,363,Malaysia,2008,118th,67.2,MYS,Malaysia
+,364,Sweden,2008,175th,19.8,SWE,Sweden
+,365,Mongolia,2008,133rd,57.8,MNG,Mongolia
+,366,Mali,2008,89th,75.6,MLI,Mali
+,367,Tunisia,2008,122nd,65.6,TUN,Tunisia
+,368,Qatar,2008,137th,52.7,QAT,Qatar
+,369,Turkmenistan,2008,46th,86.2,TKM,Turkmenistan
+,370,Azerbaijan,2008,64th,81.0,AZE,Azerbaijan
+,371,Australia,2008,169th,24.6,AUS,Australia
+,372,Angola,2008,56th,83.8,AGO,Angola
+,373,Albania,2008,112th,69.7,ALB,Albania
+,374,Algeria,2008,80th,77.8,DZA,Algeria
+,375,Belarus,2008,53rd,84.4,BLR,Belarus
+,376,Barbados,2008,131st,58.5,BRB,Barbados
+,377,Bahrain,2008,134th,56.8,BHR,Bahrain
+,378,Benin,2008,100th,72.8,BEN,Benin
+,379,Bosnia and Herzegovina,2008,54th,84.3,BIH,Bosnia and Herzegovina
+,380,Botswana,2008,120th,65.9,BWA,Botswana
+,381,Bulgaria,2008,131st,58.5,BGR,Bulgaria
+,382,Brazil,2008,117th,67.6,BRA,Brazil
+,383,Burkina Faso,2008,36th,89.9,BFA,Burkina Faso
+,384,Democratic Republic of the COngo,2008,6th,106.7,COD,Democratic Republic of the Congo
+,385,China,2008,68th,80.3,CHN,China
+,386,Chad,2008,4th,110.9,TCD,Chad
+,387,Denmark,2008,170th,21.5,DNK,Denmark
+,388,Cuba,2008,76th,78.6,CUB,Cuba
+,389,Dominican Republic,2008,77th,78.4,DOM,Dominican Republic
+,390,Czech Republic,2008,149th,42.1,CZE,Czech Republic
+,391,Cote d'Ivoire,2008,8th,104.6,CIV,Ivory Coast
+,392,Croatia,2008,129th,59.4,HRV,Croatia
+,393,Ecuador,2008,68th,80.3,ECU,Ecuador
+,394,Egypt,2008,40th,88.7,EGY,Egypt
+,395,France,2008,158th,34.8,FRA,France
+,396,Fiji,2008,87th,76.6,FJI,Fiji
+,397,Finland,2008,176th,18.4,FIN,Finland
+,398,Estonia,2008,139th,51.0,EST,Estonia
+,399,Ethiopia,2008,16th,96.1,ETH,Ethiopia
+,400,Gabon,2008,93rd,75.0,GAB,Gabon
+,401,Eritrea,2008,44th,87.4,ERI,Eritrea
+,402,Ghana,2008,123rd,64.6,GHA,Ghana
+,403,Iran,2008,49th,85.7,IRN,Iran
+,404,Hungary,2008,140th,50.9,HUN,Hungary
+,405,Iceland,2008,172nd,20.9,ISL,Iceland
+,406,Indonesia,2008,60th,83.3,IDN,Indonesia
+,407,Iraq,2008,5th,110.6,IRQ,Iraq
+,408,India,2008,98th,72.9,IND,India
+,409,Italy,2008,154th,39.9,ITA,Italy
+,410,Ireland,2008,174th,19.9,IRL,Ireland
+,411,Honduras,2008,94th,74.9,HND,Honduras
+,412,Latvia,2008,136th,54.5,LVA,Latvia
+,413,Kenya,2008,26th,93.4,KEN,Kenya
+,414,Japan,2008,163rd,29.7,JPN,Japan
+,415,Kazakhstan,2008,101st,72.4,KAZ,Kazakhstan
+,416,Kyrgyz Republic,2008,39th,88.8,KGZ,Kyrgyzstan
+,417,Laos,2008,40th,88.7,LAO,Laos
+,418,Liberia,2008,34th,91.0,LBR,Liberia
+,419,Malta,2008,144th,48.3,MLT,Malta
+,420,Mexico,2008,105th,72.2,MEX,Mexico
+,421,Morocco,2008,88th,75.8,MAR,Morocco
+,422,Nigeria,2008,18th,95.7,NGA,Nigeria
+,423,Nicaragua,2008,61st,81.7,NIC,Nicaragua
+,424,Niger,2008,22nd,94.5,NER,Niger
+,425,New Zealand,2008,171st,21.4,NZL,New Zealand
+,426,Myanmar,2008,12th,100.3,MMR,Myanmar
+,427,Nepal,2008,23rd,94.2,NPL,Nepal
+,428,North Korea,2008,15th,97.7,PRK,North Korea
+,429,Namibia,2008,98th,72.9,NAM,Namibia
+,430,Mozambique,2008,85th,76.8,MOZ,Mozambique
+,431,Norway,2008,177th,16.8,NOR,Norway
+,432,Papua New Guinea,2008,52nd,84.6,PNG,Papua New Guinea
+,433,Pakistan,2008,9th,103.8,PAK,Pakistan
+,434,Panama,2008,130th,58.6,PAN,Panama
+,435,Oman,2008,146th,47.4,OMN,Oman
+,436,Senegal,2008,107th,70.9,SEN,Senegal
+,437,Russia,2008,73rd,79.7,RUS,Russia
+,438,Serbia,2008,70th,80.1,SRB,Republic of Serbia
+,439,Saudi Arabia,2008,83rd,76.9,SAU,Saudi Arabia
+,440,Romania,2008,128th,59.9,ROU,Romania
+,441,Spain,2008,150th,41.6,ESP,Spain
+,442,Slovenia,2008,156th,37.1,SVN,Slovenia
+,443,South Korea,2008,153rd,40.6,KOR,South Korea
+,444,Somalia,2008,1st,114.2,SOM,Somalia
+,445,South Sudan,2008,,,SSD,South Sudan
+,446,Sierra Leone,2008,31st,92.3,SLE,Sierra Leone
+,447,South Africa,2008,125th,62.7,ZAF,South Africa
+,448,Slovak Republic,2008,142nd,48.8,SVK,Slovakia
+,449,Solomon Islands,2008,30th,92.4,SLB,Solomon Islands
+,450,Suriname,2008,101st,72.4,SUR,Suriname
+,451,Swaziland,2008,71st,80.0,SWZ,Swaziland
+,452,Syria,2008,35th,90.1,SYR,Syria
+,453,Switzerland,2008,173rd,20.3,CHE,Switzerland
+,454,Antigua and Barbuda,2008,124th,64.1,ATG,Antigua and Barbuda
+,455,Congo,2008,26th,93.4,COG,Republic of Congo
+,456,Germany,2008,155th,37.3,DEU,Germany
+,457,Guinea Bissau,2008,32nd,91.3,GNB,Guinea Bissau
+,458,Georgia,2008,56th,83.8,GEO,Georgia
+,459,Turkey,2008,92nd,75.4,TUR,Turkey
+,460,United Kingdom,2008,160th,32.9,GBR,United Kingdom
+,461,Vietnam,2008,95th,74.6,VNM,Vietnam
+,462,Yemen,2008,21st,95.4,YEM,Yemen
+,463,Zambia,2008,63rd,81.6,ZMB,Zambia
+,464,Uzbekistan,2008,26th,93.4,UZB,Uzbekistan
+,465,Uruguay,2008,151st,41.4,URY,Uruguay
+,466,Venezuela,2008,79th,77.9,VEN,Venezuela
+,467,Zimbabwe,2008,3rd,112.5,ZWE,Zimbabwe
+,468,United States,2008,161st,32.8,USA,United States of America
+,469,Brunei Darussalam,2008,116th,68.5,BRN,Brunei
+,470,Canada,2008,167th,26.3,CAN,Canada
+,471,Armenia,2008,109th,70.7,ARM,Armenia
+,472,Austria,2008,168th,25.9,AUT,Austria
+,473,Afghanistan,2008,7th,105.4,AFG,Afghanistan
+,474,Argentina,2008,151st,41.4,ARG,Argentina
+,475,Bhutan,2008,51st,85.4,BTN,Bhutan
+,476,Belgium,2008,164th,29.0,BEL,Belgium
+,477,Bahamas,2008,127th,60.5,BHS,The Bahamas
+,478,Bangladesh,2008,12th,100.3,BGD,Bangladesh
+,479,Belize,2008,110th,70.2,BLZ,Belize
+,480,Cambodia,2008,48th,85.8,KHM,Cambodia
+,481,Cameroon,2008,33rd,91.2,CMR,Cameroon
+,482,Guyana,2008,105th,72.2,GUY,Guyana
+,483,Cape Verde,2008,65th,80.7,CPV,Cape Verde
+,484,Sao Tome and Principe,2008,78th,78.3,STP,Sao Tome and Principe
+,485,Burundi,2008,24th,94.1,BDI,Burundi
+,486,Colombia,2008,37th,89.0,COL,Colombia
+,487,Comoros,2008,74th,79.6,COM,Comoros
+,488,Central African Republic,2008,10th,103.7,CAF,Central African Republic
+,489,Chile,2008,157th,36.3,CHL,Chile
+,490,Costa Rica,2008,140th,50.9,CRI,Costa Rica
+,491,Cyprus,2008,112th,69.7,CYP,Cyprus
+,492,Djibouti,2008,71st,80.0,DJI,Djibouti
+,493,Equatorial Guinea,2008,42nd,88.0,GNQ,Equatorial Guinea
+,494,Gambia,2008,83rd,76.9,GMB,Gambia
+,495,Grenada,2008,115th,69.0,GRD,Grenada
+,496,El Salvador,2008,91st,75.5,SLV,El Salvador
+,497,Haiti,2008,14th,99.3,HTI,Haiti
+,498,Guatemala,2008,66th,80.6,GTM,Guatemala
+,499,Guinea,2008,11th,101.8,GIN,Guinea
+,500,Israel,2008,58th,83.6,ISR,Israel
+,501,Jordan,2008,82nd,77.3,JOR,Jordan
+,502,Kuwait,2008,126th,62.0,KWT,Kuwait
+,503,Luxembourg,2008,165th,27.9,LUX,Luxembourg
+,504,Madagascar,2008,86th,76.7,MDG,Madagascar
+,505,Jamaica,2008,121st,65.7,JAM,Jamaica
+,506,Micronesia,2008,97th,74.0,FSM,Federated States of Micronesia
+,507,Lebanon,2008,18th,95.7,LBN,Lebanon
+,508,Lithuania,2008,143rd,48.7,LTU,Lithuania
+,509,Malawi,2008,29th,92.9,MWI,Malawi
+,510,Mauritius,2008,148th,42.4,MUS,Mauritius
+,511,Lesotho,2008,61st,81.7,LSO,Lesotho
+,512,Mauritania,2008,47th,86.1,MRT,Mauritania
+,513,Poland,2008,145th,47.6,POL,Poland
+,514,Portugal,2008,162nd,31.8,PRT,Portugal
+,515,Peru,2008,81st,77.5,PER,Peru
+,516,Paraguay,2008,104th,72.3,PRY,Paraguay
+,517,Philippines,2008,59th,83.4,PHL,Philippines
+,518,Macedonia,2008,95th,74.6,MKD,Macedonia
+,519,Tajikistan,2008,38th,88.9,TJK,Tajikistan
+,520,Montenegro,2008,135th,55.8,MNE,Montenegro
+,521,Rwanda,2008,42nd,88.0,RWA,Rwanda
+,522,Samoa,2008,101st,72.4,WSM,Samoa
+,523,Seychelles,2008,114th,69.5,SYC,Seychelles
+,524,Singapore,2008,159th,33.3,SGP,Singapore
+,525,Tanzania,2008,75th,79.1,TZA,United Republic of Tanzania
+,526,Thailand,2008,89th,75.6,THA,Thailand
+,527,Sudan,2008,2nd,113.0,SDN,Sudan
+,528,Sri Lanka,2008,20th,95.6,LKA,Sri Lanka
+,529,Timor-Leste,2008,25th,93.8,TLS,Timor-Leste
+,530,Togo,2008,45th,86.8,TGO,Togo
+,531,Trinidad and Tobago,2008,119th,67.0,TTO,Trinidad and Tobago
+,532,Uganda,2008,16th,96.1,UGA,Uganda
+,533,United Arab Emirates,2008,138th,51.2,ARE,United Arab Emirates
+,534,Ukraine,2008,108th,70.8,UKR,Ukraine
+,535,Netherlands,2009,169th,27.0,NLD,Netherlands
+,536,Bolivia,2009,51st,86.3,BOL,Bolivia
+,537,Greece,2009,147th,46.1,GRC,Greece
+,538,Libya,2009,112th,69.4,LBY,Libya
+,539,Moldova,2009,54th,85.1,MDA,Moldova
+,540,Maldives,2009,81st,78.8,MDV,Maldives
+,541,Malaysia,2009,114th,68.9,MYS,Malaysia
+,542,Sweden,2009,175th,20.6,SWE,Sweden
+,543,Mongolia,2009,127th,61.9,MNG,Mongolia
+,544,Mali,2009,83rd,78.7,MLI,Mali
+,545,Tunisia,2009,121st,67.6,TUN,Tunisia
+,546,Qatar,2009,138th,51.9,QAT,Qatar
+,547,Turkmenistan,2009,59th,84.3,TKM,Turkmenistan
+,548,Azerbaijan,2009,56th,84.6,AZE,Azerbaijan
+,549,Australia,2009,170th,25.9,AUS,Australia
+,550,Angola,2009,55th,85.0,AGO,Angola
+,551,Albania,2009,109th,70.0,ALB,Albania
+,552,Algeria,2009,73rd,80.6,DZA,Algeria
+,553,Belarus,2009,66th,82.3,BLR,Belarus
+,554,Barbados,2009,135th,57.2,BRB,Barbados
+,555,Bahrain,2009,133rd,59.0,BHR,Bahrain
+,556,Benin,2009,97th,75.5,BEN,Benin
+,557,Bosnia and Herzegovina,2009,63rd,83.3,BIH,Bosnia and Herzegovina
+,558,Botswana,2009,116th,68.8,BWA,Botswana
+,559,Bulgaria,2009,128th,61.5,BGR,Bulgaria
+,560,Brazil,2009,113th,69.1,BRA,Brazil
+,561,Burkina Faso,2009,35th,91.3,BFA,Burkina Faso
+,562,Democratic Republic of the COngo,2009,5th,108.7,COD,Democratic Republic of the Congo
+,563,China,2009,56th,84.6,CHN,China
+,564,Chad,2009,4th,112.2,TCD,Chad
+,565,Denmark,2009,172nd,23.2,DNK,Denmark
+,566,Cuba,2009,73rd,80.6,CUB,Cuba
+,567,Dominican Republic,2009,88th,77.7,DOM,Dominican Republic
+,568,Czech Republic,2009,152nd,42.6,CZE,Czech Republic
+,569,Cote d'Ivoire,2009,11th,102.5,CIV,Ivory Coast
+,570,Croatia,2009,131st,60.1,HRV,Croatia
+,571,Ecuador,2009,69th,81.2,ECU,Ecuador
+,572,Egypt,2009,43rd,89.0,EGY,Egypt
+,573,France,2009,158th,35.3,FRA,France
+,574,Fiji,2009,81st,78.8,FJI,Fiji
+,575,Finland,2009,176th,19.2,FIN,Finland
+,576,Estonia,2009,140th,51.2,EST,Estonia
+,577,Ethiopia,2009,16th,98.9,ETH,Ethiopia
+,578,Gabon,2009,99th,74.4,GAB,Gabon
+,579,Eritrea,2009,36th,90.3,ERI,Eritrea
+,580,Ghana,2009,124th,66.2,GHA,Ghana
+,581,Iran,2009,38th,90.0,IRN,Iran
+,582,Hungary,2009,141st,50.7,HUN,Hungary
+,583,Iceland,2009,165th,29.0,ISL,Iceland
+,584,Indonesia,2009,61st,84.1,IDN,Indonesia
+,585,Iraq,2009,6th,108.6,IRQ,Iraq
+,586,India,2009,87th,77.8,IND,India
+,587,Italy,2009,150th,43.9,ITA,Italy
+,588,Ireland,2009,173rd,21.6,IRL,Ireland
+,589,Honduras,2009,90th,77.2,HND,Honduras
+,590,Latvia,2009,136th,54.6,LVA,Latvia
+,591,Kenya,2009,14th,101.4,KEN,Kenya
+,592,Japan,2009,164th,31.2,JPN,Japan
+,593,Kazakhstan,2009,105th,72.5,KAZ,Kazakhstan
+,594,Kyrgyz Republic,2009,42nd,89.1,KGZ,Kyrgyzstan
+,595,Laos,2009,43rd,89.0,LAO,Laos
+,596,Liberia,2009,33rd,91.8,LBR,Liberia
+,597,Malta,2009,143rd,48.8,MLT,Malta
+,598,Mexico,2009,98th,75.4,MEX,Mexico
+,599,Morocco,2009,92nd,77.1,MAR,Morocco
+,600,Nigeria,2009,15th,99.8,NGA,Nigeria
+,601,Nicaragua,2009,64th,82.6,NIC,Nicaragua
+,602,Niger,2009,23rd,96.5,NER,Niger
+,603,New Zealand,2009,171st,23.3,NZL,New Zealand
+,604,Myanmar,2009,13th,101.5,MMR,Myanmar
+,605,Nepal,2009,25th,95.4,NPL,Nepal
+,606,North Korea,2009,17th,98.3,PRK,North Korea
+,607,Namibia,2009,96th,75.6,NAM,Namibia
+,608,Mozambique,2009,72nd,80.7,MOZ,Mozambique
+,609,Norway,2009,177th,18.3,NOR,Norway
+,610,Papua New Guinea,2009,61st,84.1,PNG,Papua New Guinea
+,611,Pakistan,2009,10th,104.1,PAK,Pakistan
+,612,Panama,2009,132nd,59.7,PAN,Panama
+,613,Oman,2009,146th,47.2,OMN,Oman
+,614,Senegal,2009,102nd,74.2,SEN,Senegal
+,615,Russia,2009,71st,80.8,RUS,Russia
+,616,Serbia,2009,78th,79.2,SRB,Republic of Serbia
+,617,Saudi Arabia,2009,89th,77.5,SAU,Saudi Arabia
+,618,Romania,2009,129th,61.3,ROU,Romania
+,619,Spain,2009,151st,43.3,ESP,Spain
+,620,Slovenia,2009,156th,36.3,SVN,Slovenia
+,621,South Korea,2009,153rd,41.6,KOR,South Korea
+,622,Somalia,2009,1st,114.7,SOM,Somalia
+,623,South Sudan,2009,,,SSD,South Sudan
+,624,Sierra Leone,2009,32nd,92.1,SLE,Sierra Leone
+,625,South Africa,2009,122nd,67.4,ZAF,South Africa
+,626,Slovak Republic,2009,144th,48.6,SVK,Slovakia
+,627,Solomon Islands,2009,40th,89.6,SLB,Solomon Islands
+,628,Suriname,2009,103rd,73.2,SUR,Suriname
+,629,Swaziland,2009,65th,82.4,SWZ,Swaziland
+,630,Syria,2009,39th,89.8,SYR,Syria
+,631,Switzerland,2009,174th,21.2,CHE,Switzerland
+,632,Antigua and Barbuda,2009,126th,62.8,ATG,Antigua and Barbuda
+,633,Congo,2009,30th,93.1,COG,Republic of Congo
+,634,Germany,2009,157th,36.2,DEU,Germany
+,635,Guinea Bissau,2009,27th,94.8,GNB,Guinea Bissau
+,636,Georgia,2009,33rd,91.8,GEO,Georgia
+,637,Turkey,2009,85th,78.2,TUR,Turkey
+,638,United Kingdom,2009,161st,33.6,GBR,United Kingdom
+,639,Vietnam,2009,94th,76.9,VNM,Vietnam
+,640,Yemen,2009,18th,98.1,YEM,Yemen
+,641,Zambia,2009,60th,84.2,ZMB,Zambia
+,642,Uzbekistan,2009,31st,92.8,UZB,Uzbekistan
+,643,Uruguay,2009,154th,41.2,URY,Uruguay
+,644,Venezuela,2009,77th,79.5,VEN,Venezuela
+,645,Zimbabwe,2009,2nd,114.0,ZWE,Zimbabwe
+,646,United States,2009,159th,34.0,USA,United States of America
+,647,Brunei Darussalam,2009,118th,68.1,BRN,Brunei
+,648,Canada,2009,166th,27.7,CAN,Canada
+,649,Armenia,2009,101st,74.3,ARM,Armenia
+,650,Austria,2009,167th,27.6,AUT,Austria
+,651,Afghanistan,2009,7th,108.2,AFG,Afghanistan
+,652,Argentina,2009,148th,44.7,ARG,Argentina
+,653,Bhutan,2009,48th,87.3,BTN,Bhutan
+,654,Belgium,2009,162nd,33.5,BEL,Belgium
+,655,Bahamas,2009,130th,60.9,BHS,The Bahamas
+,656,Bangladesh,2009,18th,98.1,BGD,Bangladesh
+,657,Belize,2009,111th,69.5,BLZ,Belize
+,658,Cambodia,2009,48th,87.3,KHM,Cambodia
+,659,Cameroon,2009,26th,95.3,CMR,Cameroon
+,660,Guyana,2009,104th,73.0,GUY,Guyana
+,661,Cape Verde,2009,84th,78.5,CPV,Cape Verde
+,662,Sao Tome and Principe,2009,95th,76.7,STP,Sao Tome and Principe
+,663,Burundi,2009,24th,95.7,BDI,Burundi
+,664,Colombia,2009,41st,89.2,COL,Colombia
+,665,Comoros,2009,51st,86.3,COM,Comoros
+,666,Central African Republic,2009,8th,105.4,CAF,Central African Republic
+,667,Chile,2009,155th,37.5,CHL,Chile
+,668,Costa Rica,2009,137th,52.5,CRI,Costa Rica
+,669,Cyprus,2009,114th,68.9,CYP,Cyprus
+,670,Djibouti,2009,73rd,80.6,DJI,Djibouti
+,671,Equatorial Guinea,2009,47th,88.3,GNQ,Equatorial Guinea
+,672,Gambia,2009,80th,79.0,GMB,Gambia
+,673,Grenada,2009,119th,67.9,GRD,Grenada
+,674,El Salvador,2009,90th,77.2,SLV,El Salvador
+,675,Haiti,2009,12th,101.8,HTI,Haiti
+,676,Guatemala,2009,73rd,80.6,GTM,Guatemala
+,677,Guinea,2009,9th,104.6,GIN,Guinea
+,678,Israel,2009,56th,84.6,ISR,Israel
+,679,Jordan,2009,86th,77.9,JOR,Jordan
+,680,Kuwait,2009,125th,63.4,KWT,Kuwait
+,681,Luxembourg,2009,167th,27.6,LUX,Luxembourg
+,682,Madagascar,2009,68th,81.6,MDG,Madagascar
+,683,Jamaica,2009,117th,68.6,JAM,Jamaica
+,684,Micronesia,2009,107th,71.9,FSM,Federated States of Micronesia
+,685,Lebanon,2009,29th,93.5,LBN,Lebanon
+,686,Lithuania,2009,145th,48.0,LTU,Lithuania
+,687,Malawi,2009,28th,93.8,MWI,Malawi
+,688,Mauritius,2009,148th,44.7,MUS,Mauritius
+,689,Lesotho,2009,67th,81.8,LSO,Lesotho
+,690,Mauritania,2009,46th,88.7,MRT,Mauritania
+,691,Poland,2009,142nd,49.6,POL,Poland
+,692,Portugal,2009,163rd,32.7,PRT,Portugal
+,693,Peru,2009,92nd,77.1,PER,Peru
+,694,Paraguay,2009,106th,72.0,PRY,Paraguay
+,695,Philippines,2009,53rd,85.8,PHL,Philippines
+,696,Macedonia,2009,99th,74.4,MKD,Macedonia
+,697,Tajikistan,2009,36th,90.3,TJK,Tajikistan
+,698,Montenegro,2009,134th,58.0,MNE,Montenegro
+,699,Rwanda,2009,43rd,89.0,RWA,Rwanda
+,700,Samoa,2009,108th,71.4,WSM,Samoa
+,701,Seychelles,2009,120th,67.7,SYC,Seychelles
+,702,Singapore,2009,160th,33.8,SGP,Singapore
+,703,Tanzania,2009,70th,81.1,TZA,United Republic of Tanzania
+,704,Thailand,2009,78th,79.2,THA,Thailand
+,705,Sudan,2009,3rd,112.4,SDN,Sudan
+,706,Sri Lanka,2009,22nd,96.7,LKA,Sri Lanka
+,707,Timor-Leste,2009,20th,97.2,TLS,Timor-Leste
+,708,Togo,2009,50th,87.2,TGO,Togo
+,709,Trinidad and Tobago,2009,123rd,66.7,TTO,Trinidad and Tobago
+,710,Uganda,2009,21st,96.9,UGA,Uganda
+,711,United Arab Emirates,2009,139th,51.8,ARE,United Arab Emirates
+,712,Ukraine,2009,110th,69.7,UKR,Ukraine
+,713,Netherlands,2010,166th,27.9,NLD,Netherlands
+,714,Bolivia,2010,53rd,84.9,BOL,Bolivia
+,715,Greece,2010,147th,45.9,GRC,Greece
+,716,Libya,2010,111th,69.1,LBY,Libya
+,717,Moldova,2010,58th,83.8,MDA,Moldova
+,718,Maldives,2010,84th,78.3,MDV,Maldives
+,719,Malaysia,2010,110th,69.2,MYS,Malaysia
+,720,Sweden,2010,175th,20.9,SWE,Sweden
+,721,Mongolia,2010,129th,60.1,MNG,Mongolia
+,722,Mali,2010,78th,79.3,MLI,Mali
+,723,Tunisia,2010,118th,67.5,TUN,Tunisia
+,724,Qatar,2010,139th,51.8,QAT,Qatar
+,725,Turkmenistan,2010,65th,82.5,TKM,Turkmenistan
+,726,Azerbaijan,2010,55th,84.4,AZE,Azerbaijan
+,727,Australia,2010,168th,27.3,AUS,Australia
+,728,Angola,2010,59th,83.7,AGO,Angola
+,729,Albania,2010,121st,67.1,ALB,Albania
+,730,Algeria,2010,71st,81.3,DZA,Algeria
+,731,Belarus,2010,82nd,78.7,BLR,Belarus
+,732,Barbados,2010,135th,55.4,BRB,Barbados
+,733,Bahrain,2010,133rd,58.8,BHR,Bahrain
+,734,Benin,2010,93rd,76.8,BEN,Benin
+,735,Bosnia and Herzegovina,2010,60th,83.5,BIH,Bosnia and Herzegovina
+,736,Botswana,2010,113th,68.6,BWA,Botswana
+,737,Bulgaria,2010,126th,61.2,BGR,Bulgaria
+,738,Brazil,2010,119th,67.4,BRA,Brazil
+,739,Burkina Faso,2010,35th,90.7,BFA,Burkina Faso
+,740,Democratic Republic of the COngo,2010,5th,109.9,COD,Democratic Republic of the Congo
+,741,China,2010,62nd,83.0,CHN,China
+,742,Chad,2010,2nd,113.3,TCD,Chad
+,743,Denmark,2010,172nd,22.9,DNK,Denmark
+,744,Cuba,2010,77th,79.4,CUB,Cuba
+,745,Dominican Republic,2010,93rd,76.8,DOM,Dominican Republic
+,746,Czech Republic,2010,152nd,41.5,CZE,Czech Republic
+,747,Cote d'Ivoire,2010,12th,101.2,CIV,Ivory Coast
+,748,Croatia,2010,131st,59.0,HRV,Croatia
+,749,Ecuador,2010,69th,81.7,ECU,Ecuador
+,750,Egypt,2010,49th,87.6,EGY,Egypt
+,751,France,2010,159th,34.9,FRA,France
+,752,Fiji,2010,74th,80.5,FJI,Fiji
+,753,Finland,2010,176th,19.3,FIN,Finland
+,754,Estonia,2010,140th,50.7,EST,Estonia
+,755,Ethiopia,2010,17th,98.8,ETH,Ethiopia
+,756,Gabon,2010,98th,75.3,GAB,Gabon
+,757,Eritrea,2010,30th,93.3,ERI,Eritrea
+,758,Ghana,2010,122nd,67.1,GHA,Ghana
+,759,Iran,2010,32nd,92.2,IRN,Iran
+,760,Hungary,2010,141st,50.1,HUN,Hungary
+,761,Iceland,2010,165th,29.8,ISL,Iceland
+,762,Indonesia,2010,61st,83.1,IDN,Indonesia
+,763,Iraq,2010,7th,107.3,IRQ,Iraq
+,764,India,2010,79th,79.2,IND,India
+,765,Italy,2010,149th,45.7,ITA,Italy
+,766,Ireland,2010,173rd,22.4,IRL,Ireland
+,767,Honduras,2010,76th,80.0,HND,Honduras
+,768,Latvia,2010,135th,55.4,LVA,Latvia
+,769,Kenya,2010,13th,100.7,KEN,Kenya
+,770,Japan,2010,164th,31.3,JPN,Japan
+,771,Kazakhstan,2010,103rd,72.7,KAZ,Kazakhstan
+,772,Kyrgyz Republic,2010,45th,88.4,KGZ,Kyrgyzstan
+,773,Laos,2010,40th,88.7,LAO,Laos
+,774,Liberia,2010,33rd,91.7,LBR,Liberia
+,775,Malta,2010,145th,48.2,MLT,Malta
+,776,Mexico,2010,96th,76.1,MEX,Mexico
+,777,Morocco,2010,90th,77.0,MAR,Morocco
+,778,Nigeria,2010,14th,100.2,NGA,Nigeria
+,779,Nicaragua,2010,65th,82.5,NIC,Nicaragua
+,780,Niger,2010,19th,97.8,NER,Niger
+,781,New Zealand,2010,171st,23.9,NZL,New Zealand
+,782,Myanmar,2010,16th,99.4,MMR,Myanmar
+,783,Nepal,2010,26th,95.4,NPL,Nepal
+,784,North Korea,2010,19th,97.8,PRK,North Korea
+,785,Namibia,2010,100th,74.5,NAM,Namibia
+,786,Mozambique,2010,69th,81.7,MOZ,Mozambique
+,787,Norway,2010,177th,18.7,NOR,Norway
+,788,Papua New Guinea,2010,56th,83.9,PNG,Papua New Guinea
+,789,Pakistan,2010,10th,102.5,PAK,Pakistan
+,790,Panama,2010,130th,59.3,PAN,Panama
+,791,Oman,2010,144th,48.7,OMN,Oman
+,792,Senegal,2010,99th,74.6,SEN,Senegal
+,793,Russia,2010,80th,79.0,RUS,Russia
+,794,Serbia,2010,86th,77.8,SRB,Republic of Serbia
+,795,Saudi Arabia,2010,87th,77.5,SAU,Saudi Arabia
+,796,Romania,2010,128th,60.2,ROU,Romania
+,797,Spain,2010,151st,43.5,ESP,Spain
+,798,Slovenia,2010,156th,36.0,SVN,Slovenia
+,799,South Korea,2010,153rd,41.3,KOR,South Korea
+,800,Somalia,2010,1st,114.3,SOM,Somalia
+,801,South Sudan,2010,,,SSD,South Sudan
+,802,Sierra Leone,2010,28th,93.6,SLE,Sierra Leone
+,803,South Africa,2010,115th,67.9,ZAF,South Africa
+,804,Slovak Republic,2010,143rd,48.8,SVK,Slovakia
+,805,Solomon Islands,2010,43rd,88.6,SLB,Solomon Islands
+,806,Suriname,2010,105th,72.5,SUR,Suriname
+,807,Swaziland,2010,63rd,82.8,SWZ,Swaziland
+,808,Syria,2010,48th,87.9,SYR,Syria
+,809,Switzerland,2010,174th,21.8,CHE,Switzerland
+,810,Antigua and Barbuda,2010,127th,60.9,ATG,Antigua and Barbuda
+,811,Congo,2010,31st,92.5,COG,Republic of Congo
+,812,Germany,2010,157th,35.4,DEU,Germany
+,813,Guinea Bissau,2010,22nd,97.2,GNB,Guinea Bissau
+,814,Georgia,2010,37th,90.4,GEO,Georgia
+,815,Turkey,2010,89th,77.1,TUR,Turkey
+,816,United Kingdom,2010,161st,33.9,GBR,United Kingdom
+,817,Vietnam,2010,95th,76.6,VNM,Vietnam
+,818,Yemen,2010,15th,100.0,YEM,Yemen
+,819,Zambia,2010,56th,83.9,ZMB,Zambia
+,820,Uzbekistan,2010,36th,90.5,UZB,Uzbekistan
+,821,Uruguay,2010,153rd,41.3,URY,Uruguay
+,822,Venezuela,2010,82nd,78.7,VEN,Venezuela
+,823,Zimbabwe,2010,4th,110.2,ZWE,Zimbabwe
+,824,United States,2010,158th,35.3,USA,United States of America
+,825,Brunei Darussalam,2010,117th,67.6,BRN,Brunei
+,826,Canada,2010,166th,27.9,CAN,Canada
+,827,Armenia,2010,101st,74.1,ARM,Armenia
+,828,Austria,2010,170th,27.2,AUT,Austria
+,829,Afghanistan,2010,6th,109.3,AFG,Afghanistan
+,830,Argentina,2010,148th,45.8,ARG,Argentina
+,831,Bhutan,2010,50th,87.3,BTN,Bhutan
+,832,Belgium,2010,163rd,32.0,BEL,Belgium
+,833,Bahamas,2010,132nd,58.9,BHS,The Bahamas
+,834,Bangladesh,2010,24th,96.1,BGD,Bangladesh
+,835,Belize,2010,112th,68.7,BLZ,Belize
+,836,Cambodia,2010,40th,88.7,KHM,Cambodia
+,837,Cameroon,2010,26th,95.4,CMR,Cameroon
+,838,Guyana,2010,102nd,73.0,GUY,Guyana
+,839,Cape Verde,2010,88th,77.2,CPV,Cape Verde
+,840,Sao Tome and Principe,2010,97th,75.8,STP,Sao Tome and Principe
+,841,Burundi,2010,23rd,96.7,BDI,Burundi
+,842,Colombia,2010,46th,88.2,COL,Colombia
+,843,Comoros,2010,52nd,85.1,COM,Comoros
+,844,Central African Republic,2010,8th,106.4,CAF,Central African Republic
+,845,Chile,2010,155th,38.0,CHL,Chile
+,846,Costa Rica,2010,138th,52.0,CRI,Costa Rica
+,847,Cyprus,2010,114th,68.0,CYP,Cyprus
+,848,Djibouti,2010,68th,81.9,DJI,Djibouti
+,849,Equatorial Guinea,2010,44th,88.5,GNQ,Equatorial Guinea
+,850,Gambia,2010,75th,80.2,GMB,Gambia
+,851,Grenada,2010,123rd,67.0,GRD,Grenada
+,852,El Salvador,2010,85th,78.1,SLV,El Salvador
+,853,Haiti,2010,11th,101.6,HTI,Haiti
+,854,Guatemala,2010,72nd,81.2,GTM,Guatemala
+,855,Guinea,2010,9th,105.0,GIN,Guinea
+,856,Israel,2010,54th,84.6,ISR,Israel
+,857,Jordan,2010,90th,77.0,JOR,Jordan
+,858,Kuwait,2010,125th,61.5,KWT,Kuwait
+,859,Luxembourg,2010,168th,27.3,LUX,Luxembourg
+,860,Madagascar,2010,64th,82.6,MDG,Madagascar
+,861,Jamaica,2010,119th,67.4,JAM,Jamaica
+,862,Micronesia,2010,108th,70.6,FSM,Federated States of Micronesia
+,863,Lebanon,2010,34th,90.9,LBN,Lebanon
+,864,Lithuania,2010,146th,47.8,LTU,Lithuania
+,865,Malawi,2010,28th,93.6,MWI,Malawi
+,866,Mauritius,2010,150th,44.4,MUS,Mauritius
+,867,Lesotho,2010,67th,82.2,LSO,Lesotho
+,868,Mauritania,2010,39th,89.1,MRT,Mauritania
+,869,Poland,2010,142nd,49.0,POL,Poland
+,870,Portugal,2010,162nd,33.1,PRT,Portugal
+,871,Peru,2010,92nd,76.9,PER,Peru
+,872,Paraguay,2010,106th,72.1,PRY,Paraguay
+,873,Philippines,2010,51st,87.1,PHL,Philippines
+,874,Macedonia,2010,103rd,72.7,MKD,Macedonia
+,875,Tajikistan,2010,38th,89.2,TJK,Tajikistan
+,876,Montenegro,2010,134th,57.3,MNE,Montenegro
+,877,Rwanda,2010,40th,88.7,RWA,Rwanda
+,878,Samoa,2010,107th,71.1,WSM,Samoa
+,879,Seychelles,2010,115th,67.9,SYC,Seychelles
+,880,Singapore,2010,160th,34.8,SGP,Singapore
+,881,Tanzania,2010,72nd,81.2,TZA,United Republic of Tanzania
+,882,Thailand,2010,81st,78.8,THA,Thailand
+,883,Sudan,2010,3rd,111.8,SDN,Sudan
+,884,Sri Lanka,2010,25th,95.7,LKA,Sri Lanka
+,885,Timor-Leste,2010,18th,98.2,TLS,Timor-Leste
+,886,Togo,2010,47th,88.1,TGO,Togo
+,887,Trinidad and Tobago,2010,124th,66.1,TTO,Trinidad and Tobago
+,888,Uganda,2010,21st,97.5,UGA,Uganda
+,889,United Arab Emirates,2010,137th,52.4,ARE,United Arab Emirates
+,890,Ukraine,2010,109th,69.5,UKR,Ukraine
+,891,Netherlands,2011,166th,28.3,NLD,Netherlands
+,892,Bolivia,2011,59th,82.9,BOL,Bolivia
+,893,Greece,2011,143rd,47.4,GRC,Greece
+,894,Libya,2011,111th,68.7,LBY,Libya
+,895,Moldova,2011,66th,81.2,MDA,Moldova
+,896,Maldives,2011,91st,75.6,MDV,Maldives
+,897,Malaysia,2011,111th,68.7,MYS,Malaysia
+,898,Sweden,2011,175th,22.8,SWE,Sweden
+,899,Mongolia,2011,127th,59.6,MNG,Mongolia
+,900,Mali,2011,76th,79.3,MLI,Mali
+,901,Tunisia,2011,108th,70.1,TUN,Tunisia
+,902,Qatar,2011,139th,49.5,QAT,Qatar
+,903,Turkmenistan,2011,75th,79.7,TKM,Turkmenistan
+,904,Azerbaijan,2011,63rd,81.9,AZE,Azerbaijan
+,905,Australia,2011,167th,28.1,AUS,Australia
+,906,Angola,2011,52nd,84.6,AGO,Angola
+,907,Albania,2011,121st,66.1,ALB,Albania
+,908,Algeria,2011,81st,78.0,DZA,Algeria
+,909,Belarus,2011,83rd,77.6,BLR,Belarus
+,910,Barbados,2011,136th,52.8,BRB,Barbados
+,911,Bahrain,2011,129th,59.0,BHR,Bahrain
+,912,Benin,2011,74th,80.0,BEN,Benin
+,913,Bosnia and Herzegovina,2011,69th,80.9,BIH,Bosnia and Herzegovina
+,914,Botswana,2011,113th,67.9,BWA,Botswana
+,915,Bulgaria,2011,129th,59.0,BGR,Bulgaria
+,916,Brazil,2011,123rd,65.1,BRA,Brazil
+,917,Burkina Faso,2011,37th,88.6,BFA,Burkina Faso
+,918,Democratic Republic of the COngo,2011,4th,108.2,COD,Democratic Republic of the Congo
+,919,China,2011,72nd,80.1,CHN,China
+,920,Chad,2011,2nd,110.3,TCD,Chad
+,921,Denmark,2011,173rd,23.8,DNK,Denmark
+,922,Cuba,2011,86th,76.6,CUB,Cuba
+,923,Dominican Republic,2011,84th,76.9,DOM,Dominican Republic
+,924,Czech Republic,2011,152nd,42.4,CZE,Czech Republic
+,925,Cote d'Ivoire,2011,10th,102.8,CIV,Ivory Coast
+,926,Croatia,2011,132nd,57.3,HRV,Croatia
+,927,Ecuador,2011,62nd,82.2,ECU,Ecuador
+,928,Egypt,2011,45th,86.8,EGY,Egypt
+,929,France,2011,161st,34.0,FRA,France
+,930,Fiji,2011,68th,81.1,FJI,Fiji
+,931,Finland,2011,177th,19.7,FIN,Finland
+,932,Estonia,2011,140th,49.3,EST,Estonia
+,933,Ethiopia,2011,20th,98.2,ETH,Ethiopia
+,934,Gabon,2011,92nd,75.3,GAB,Gabon
+,935,Eritrea,2011,28th,93.6,ERI,Eritrea
+,936,Ghana,2011,114th,67.7,GHA,Ghana
+,937,Iran,2011,35th,90.2,IRN,Iran
+,938,Hungary,2011,142nd,48.7,HUN,Hungary
+,939,Iceland,2011,165th,30.1,ISL,Iceland
+,940,Indonesia,2011,64th,81.6,IDN,Indonesia
+,941,Iraq,2011,9th,104.8,IRQ,Iraq
+,942,India,2011,76th,79.3,IND,India
+,943,Italy,2011,147th,45.8,ITA,Italy
+,944,Ireland,2011,171st,25.3,IRL,Ireland
+,945,Honduras,2011,78th,78.3,HND,Honduras
+,946,Latvia,2011,135th,54.2,LVA,Latvia
+,948,Japan,2011,164th,31.0,JPN,Japan
+,949,Kazakhstan,2011,107th,70.2,KAZ,Kazakhstan
+,950,Kyrgyz Republic,2011,31st,91.8,KGZ,Kyrgyzstan
+,951,Laos,2011,46th,86.7,LAO,Laos
+,952,Liberia,2011,26th,94.0,LBR,Liberia
+,953,Malta,2011,148th,45.4,MLT,Malta
+,954,Mexico,2011,94th,75.1,MEX,Mexico
+,955,Morocco,2011,87th,76.3,MAR,Morocco
+,956,Nigeria,2011,14th,99.9,NGA,Nigeria
+,957,Nicaragua,2011,67th,81.2,NIC,Nicaragua
+,958,Niger,2011,15th,99.1,NER,Niger
+,959,New Zealand,2011,172nd,24.8,NZL,New Zealand
+,960,Myanmar,2011,18th,98.3,MMR,Myanmar
+,961,Nepal,2011,27th,93.7,NPL,Nepal
+,962,North Korea,2011,22nd,95.6,PRK,North Korea
+,963,Namibia,2011,104th,71.7,NAM,Namibia
+,964,Mozambique,2011,57th,83.6,MOZ,Mozambique
+,965,Norway,2011,176th,20.4,NOR,Norway
+,966,Papua New Guinea,2011,54th,84.2,PNG,Papua New Guinea
+,967,Pakistan,2011,12th,102.3,PAK,Pakistan
+,968,Panama,2011,131st,57.8,PAN,Panama
+,969,Oman,2011,140th,49.3,OMN,Oman
+,970,Senegal,2011,85th,76.8,SEN,Senegal
+,971,Russia,2011,82nd,77.7,RUS,Russia
+,972,Serbia,2011,98th,74.4,SRB,Republic of Serbia
+,973,Saudi Arabia,2011,93rd,75.2,SAU,Saudi Arabia
+,974,Romania,2011,126th,59.8,ROU,Romania
+,975,Spain,2011,151st,43.1,ESP,Spain
+,976,Slovenia,2011,156th,35.5,SVN,Slovenia
+,977,South Korea,2011,155th,38.8,KOR,South Korea
+,978,Somalia,2011,1st,113.4,SOM,Somalia
+,979,South Sudan,2011,,,SSD,South Sudan
+,980,Sierra Leone,2011,30th,92.1,SLE,Sierra Leone
+,981,South Africa,2011,116th,67.6,ZAF,South Africa
+,982,Slovak Republic,2011,144th,47.1,SVK,Slovakia
+,983,Solomon Islands,2011,48th,85.9,SLB,Solomon Islands
+,984,Suriname,2011,105th,71.1,SUR,Suriname
+,985,Swaziland,2011,61st,82.5,SWZ,Swaziland
+,986,Syria,2011,48th,85.9,SYR,Syria
+,987,Switzerland,2011,174th,23.2,CHE,Switzerland
+,988,Antigua and Barbuda,2011,125th,59.9,ATG,Antigua and Barbuda
+,989,Congo,2011,32nd,91.4,COG,Republic of Congo
+,990,Germany,2011,162nd,33.9,DEU,Germany
+,991,Guinea Bissau,2011,18th,98.3,GNB,Guinea Bissau
+,992,Georgia,2011,47th,86.4,GEO,Georgia
+,993,Turkey,2011,95th,74.9,TUR,Turkey
+,994,United Kingdom,2011,159th,34.1,GBR,United Kingdom
+,995,Vietnam,2011,88th,76.1,VNM,Vietnam
+,996,Yemen,2011,13th,100.3,YEM,Yemen
+,997,Zambia,2011,55th,83.8,ZMB,Zambia
+,998,Uzbekistan,2011,39th,88.3,UZB,Uzbekistan
+,999,Uruguay,2011,154th,40.4,URY,Uruguay
+,1000,Venezuela,2011,80th,78.2,VEN,Venezuela
+,1001,Zimbabwe,2011,6th,107.9,ZWE,Zimbabwe
+,1002,United States,2011,158th,34.8,USA,United States of America
+,1003,Brunei Darussalam,2011,122nd,65.8,BRN,Brunei
+,1004,Canada,2011,168th,27.7,CAN,Canada
+,1005,Armenia,2011,102nd,72.3,ARM,Armenia
+,1006,Austria,2011,169th,27.3,AUT,Austria
+,1007,Afghanistan,2011,7th,107.5,AFG,Afghanistan
+,1008,Argentina,2011,145th,46.8,ARG,Argentina
+,1009,Bhutan,2011,50th,85.0,BTN,Bhutan
+,1010,Belgium,2011,159th,34.1,BEL,Belgium
+,1011,Bahamas,2011,133rd,56.5,BHS,The Bahamas
+,1012,Bangladesh,2011,25th,94.4,BGD,Bangladesh
+,1013,Belize,2011,114th,67.7,BLZ,Belize
+,1014,Cambodia,2011,38th,88.5,KHM,Cambodia
+,1015,Cameroon,2011,24th,94.6,CMR,Cameroon
+,1016,Guyana,2011,100th,72.6,GUY,Guyana
+,1017,Cape Verde,2011,90th,75.8,CPV,Cape Verde
+,1018,Sao Tome and Principe,2011,96th,74.5,STP,Sao Tome and Principe
+,1019,Burundi,2011,17th,98.6,BDI,Burundi
+,1020,Colombia,2011,44th,87.0,COL,Colombia
+,1021,Comoros,2011,55th,83.8,COM,Comoros
+,1022,Central African Republic,2011,8th,105.0,CAF,Central African Republic
+,1023,Chile,2011,153rd,40.7,CHL,Chile
+,1024,Costa Rica,2011,137th,50.6,CRI,Costa Rica
+,1025,Cyprus,2011,116th,67.6,CYP,Cyprus
+,1026,Djibouti,2011,59th,82.6,DJI,Djibouti
+,1027,Equatorial Guinea,2011,41st,88.1,GNQ,Equatorial Guinea
+,1028,Gambia,2011,69th,80.9,GMB,Gambia
+,1029,Grenada,2011,120th,66.4,GRD,Grenada
+,1030,El Salvador,2011,89th,76.0,SLV,El Salvador
+,1031,Haiti,2011,5th,108.0,HTI,Haiti
+,1032,Guatemala,2011,72nd,80.1,GTM,Guatemala
+,1033,Guinea,2011,11th,102.5,GIN,Guinea
+,1034,Israel,2011,53rd,84.4,ISR,Israel
+,1035,Jordan,2011,96th,74.5,JOR,Jordan
+,1036,Kuwait,2011,128th,59.5,KWT,Kuwait
+,1037,Luxembourg,2011,170th,26.1,LUX,Luxembourg
+,1038,Madagascar,2011,58th,83.2,MDG,Madagascar
+,1039,Jamaica,2011,118th,67.1,JAM,Jamaica
+,1040,Micronesia,2011,103rd,71.9,FSM,Federated States of Micronesia
+,1041,Lebanon,2011,43rd,87.7,LBN,Lebanon
+,1042,Lithuania,2011,149th,45.3,LTU,Lithuania
+,1043,Malawi,2011,33rd,91.2,MWI,Malawi
+,1044,Mauritius,2011,150th,44.2,MUS,Mauritius
+,1045,Lesotho,2011,71st,80.4,LSO,Lesotho
+,1046,Mauritania,2011,42nd,88.0,MRT,Mauritania
+,1047,Poland,2011,145th,46.8,POL,Poland
+,1048,Portugal,2011,163rd,32.3,PRT,Portugal
+,1049,Peru,2011,99th,73.6,PER,Peru
+,1050,Paraguay,2011,101st,72.4,PRY,Paraguay
+,1051,Philippines,2011,50th,85.0,PHL,Philippines
+,1052,Macedonia,2011,106th,71.0,MKD,Macedonia
+,1053,Tajikistan,2011,39th,88.3,TJK,Tajikistan
+,1054,Montenegro,2011,134th,56.3,MNE,Montenegro
+,1055,Rwanda,2011,34th,91.0,RWA,Rwanda
+,1056,Samoa,2011,109th,69.5,WSM,Samoa
+,1057,Seychelles,2011,119th,67.0,SYC,Seychelles
+,1058,Singapore,2011,157th,35.1,SGP,Singapore
+,1059,Tanzania,2011,65th,81.3,TZA,United Republic of Tanzania
+,1060,Thailand,2011,78th,78.3,THA,Thailand
+,1061,Sudan,2011,3rd,108.7,SDN,Sudan
+,1062,Sri Lanka,2011,29th,93.1,LKA,Sri Lanka
+,1063,Timor-Leste,2011,23rd,94.9,TLS,Timor-Leste
+,1064,Togo,2011,36th,89.4,TGO,Togo
+,1065,Trinidad and Tobago,2011,124th,63.7,TTO,Trinidad and Tobago
+,1066,Uganda,2011,21st,96.3,UGA,Uganda
+,1067,United Arab Emirates,2011,138th,50.4,ARE,United Arab Emirates
+,1068,Ukraine,2011,110th,69.0,UKR,Ukraine
+,1069,Netherlands,2012,167th,28.1,NLD,Netherlands
+,1070,Bolivia,2012,62nd,82.1,BOL,Bolivia
+,1071,Greece,2012,138th,50.4,GRC,Greece
+,1072,Libya,2012,50th,84.9,LBY,Libya
+,1073,Moldova,2012,73rd,78.7,MDA,Moldova
+,1074,Maldives,2012,88th,75.1,MDV,Maldives
+,1075,Malaysia,2012,110th,68.5,MYS,Malaysia
+,1076,Sweden,2012,176th,21.3,SWE,Sweden
+,1077,Mongolia,2012,129th,58.7,MNG,Mongolia
+,1078,Mali,2012,79th,77.9,MLI,Mali
+,1079,Tunisia,2012,94th,74.2,TUN,Tunisia
+,1080,Qatar,2012,142nd,48.0,QAT,Qatar
+,1081,Turkmenistan,2012,81st,77.4,TKM,Turkmenistan
+,1082,Azerbaijan,2012,68th,79.8,AZE,Azerbaijan
+,1083,Australia,2012,165th,29.2,AUS,Australia
+,1084,Angola,2012,48th,85.1,AGO,Angola
+,1085,Albania,2012,118th,66.1,ALB,Albania
+,1086,Algeria,2012,77th,78.1,DZA,Algeria
+,1087,Belarus,2012,85th,76.6,BLR,Belarus
+,1088,Barbados,2012,135th,52.0,BRB,Barbados
+,1089,Bahrain,2012,125th,62.2,BHR,Bahrain
+,1090,Benin,2012,74th,78.6,BEN,Benin
+,1091,Bosnia and Herzegovina,2012,79th,77.9,BIH,Bosnia and Herzegovina
+,1092,Botswana,2012,117th,66.5,BWA,Botswana
+,1093,Bulgaria,2012,130th,56.3,BGR,Bulgaria
+,1094,Brazil,2012,123rd,64.1,BRA,Brazil
+,1095,Burkina Faso,2012,41st,87.4,BFA,Burkina Faso
+,1096,Democratic Republic of the COngo,2012,2nd,111.2,COD,Democratic Republic of the Congo
+,1097,China,2012,76th,78.3,CHN,China
+,1098,Chad,2012,4th,107.6,TCD,Chad
+,1099,Denmark,2012,175th,23.0,DNK,Denmark
+,1100,Cuba,2012,101st,73.1,CUB,Cuba
+,1101,Dominican Republic,2012,95th,74.1,DOM,Dominican Republic
+,1102,Czech Republic,2012,155th,39.5,CZE,Czech Republic
+,1103,Cote d'Ivoire,2012,11th,103.6,CIV,Ivory Coast
+,1104,Croatia,2012,130th,56.3,HRV,Croatia
+,1105,Ecuador,2012,67th,80.1,ECU,Ecuador
+,1106,Egypt,2012,31st,90.4,EGY,Egypt
+,1107,France,2012,162nd,33.6,FRA,France
+,1108,Fiji,2012,65th,80.5,FJI,Fiji
+,1109,Finland,2012,177th,20.0,FIN,Finland
+,1110,Estonia,2012,143rd,47.5,EST,Estonia
+,1111,Ethiopia,2012,17th,97.9,ETH,Ethiopia
+,1112,Gabon,2012,92nd,74.6,GAB,Gabon
+,1113,Eritrea,2012,23rd,94.5,ERI,Eritrea
+,1114,Ghana,2012,112th,67.5,GHA,Ghana
+,1115,Iran,2012,34th,89.6,IRN,Iran
+,1116,Hungary,2012,141st,48.3,HUN,Hungary
+,1117,Iceland,2012,166th,29.1,ISL,Iceland
+,1118,Indonesia,2012,63rd,80.6,IDN,Indonesia
+,1119,Iraq,2012,9th,104.3,IRQ,Iraq
+,1120,India,2012,78th,78.0,IND,India
+,1121,Italy,2012,145th,45.8,ITA,Italy
+,1122,Ireland,2012,170th,26.5,IRL,Ireland
+,1123,Honduras,2012,75th,78.5,HND,Honduras
+,1124,Latvia,2012,136th,51.9,LVA,Latvia
+,1125,Kenya,2012,16th,98.4,KEN,Kenya
+,1126,Japan,2012,151st,43.5,JPN,Japan
+,1127,Kazakhstan,2012,107th,70.9,KAZ,Kazakhstan
+,1128,Kyrgyz Republic,2012,41st,87.4,KGZ,Kyrgyzstan
+,1129,Laos,2012,48th,85.5,LAO,Laos
+,1130,Liberia,2012,25th,93.3,LBR,Liberia
+,1131,Malta,2012,150th,43.8,MLT,Malta
+,1132,Mexico,2012,98th,73.6,MEX,Mexico
+,1133,Morocco,2012,87th,76.1,MAR,Morocco
+,1134,Nigeria,2012,14th,101.1,NGA,Nigeria
+,1135,Nicaragua,2012,69th,79.6,NIC,Nicaragua
+,1136,Niger,2012,18th,96.9,NER,Niger
+,1137,New Zealand,2012,171st,25.6,NZL,New Zealand
+,1138,Myanmar,2012,21st,96.2,MMR,Myanmar
+,1139,Nepal,2012,27th,93.0,NPL,Nepal
+,1140,North Korea,2012,22nd,95.5,PRK,North Korea
+,1141,Namibia,2012,106th,71.0,NAM,Namibia
+,1142,Mozambique,2012,59th,82.4,MOZ,Mozambique
+,1143,Norway,2012,173rd,23.9,NOR,Norway
+,1144,Papua New Guinea,2012,54th,83.7,PNG,Papua New Guinea
+,1145,Pakistan,2012,13th,101.6,PAK,Pakistan
+,1146,Panama,2012,132nd,56.1,PAN,Panama
+,1147,Oman,2012,137th,51.7,OMN,Oman
+,1148,Senegal,2012,71st,79.3,SEN,Senegal
+,1149,Russia,2012,83rd,77.1,RUS,Russia
+,1150,Serbia,2012,89th,75.0,SRB,Republic of Serbia
+,1151,Saudi Arabia,2012,100th,73.4,SAU,Saudi Arabia
+,1152,Romania,2012,126th,59.5,ROU,Romania
+,1153,Spain,2012,153rd,42.8,ESP,Spain
+,1154,Slovenia,2012,161st,34.0,SVN,Slovenia
+,1155,South Korea,2012,156th,37.6,KOR,South Korea
+,1156,Somalia,2012,1st,114.9,SOM,Somalia
+,1157,South Sudan,2012,n/r,108.4,SSD,South Sudan
+,1158,Sierra Leone,2012,31st,90.4,SLE,Sierra Leone
+,1159,South Africa,2012,115th,66.8,ZAF,South Africa
+,1160,Slovak Republic,2012,144th,47.4,SVK,Slovakia
+,1161,Solomon Islands,2012,47th,85.6,SLB,Solomon Islands
+,1162,Suriname,2012,105th,71.2,SUR,Suriname
+,1163,Swaziland,2012,55th,83.5,SWZ,Swaziland
+,1164,Syria,2012,23rd,94.5,SYR,Syria
+,1165,Switzerland,2012,174th,23.3,CHE,Switzerland
+,1166,Antigua and Barbuda,2012,127th,58.9,ATG,Antigua and Barbuda
+,1167,Congo,2012,33rd,90.1,COG,Republic of Congo
+,1168,Germany,2012,164th,31.7,DEU,Germany
+,1169,Guinea Bissau,2012,15th,99.2,GNB,Guinea Bissau
+,1170,Georgia,2012,51st,84.8,GEO,Georgia
+,1171,Turkey,2012,85th,76.6,TUR,Turkey
+,1172,United Kingdom,2012,158th,35.3,GBR,United Kingdom
+,1173,Vietnam,2012,96th,74.0,VNM,Vietnam
+,1174,Yemen,2012,8th,104.8,YEM,Yemen
+,1175,Zambia,2012,44th,85.9,ZMB,Zambia
+,1176,Uzbekistan,2012,39th,87.5,UZB,Uzbekistan
+,1177,Uruguay,2012,154th,40.5,URY,Uruguay
+,1178,Venezuela,2012,82nd,77.3,VEN,Venezuela
+,1179,Zimbabwe,2012,5th,106.3,ZWE,Zimbabwe
+,1180,United States,2012,159th,34.8,USA,United States of America
+,1181,Brunei Darussalam,2012,123rd,64.1,BRN,Brunei
+,1182,Canada,2012,169th,26.8,CAN,Canada
+,1183,Armenia,2012,102nd,72.2,ARM,Armenia
+,1184,Austria,2012,168th,27.5,AUT,Austria
+,1185,Afghanistan,2012,6th,106.0,AFG,Afghanistan
+,1186,Argentina,2012,145th,46.5,ARG,Argentina
+,1187,Bhutan,2012,59th,82.4,BTN,Bhutan
+,1188,Belgium,2012,163rd,33.5,BEL,Belgium
+,1189,Bahamas,2012,134th,55.1,BHS,The Bahamas
+,1190,Bangladesh,2012,29th,92.2,BGD,Bangladesh
+,1191,Belize,2012,113th,67.2,BLZ,Belize
+,1192,Cambodia,2012,37th,88.7,KHM,Cambodia
+,1193,Cameroon,2012,26th,93.1,CMR,Cameroon
+,1194,Guyana,2012,104th,71.4,GUY,Guyana
+,1195,Cape Verde,2012,91st,74.7,CPV,Cape Verde
+,1196,Sao Tome and Principe,2012,97th,73.9,STP,Sao Tome and Principe
+,1197,Burundi,2012,18th,97.5,BDI,Burundi
+,1198,Colombia,2012,52nd,84.4,COL,Colombia
+,1199,Comoros,2012,57th,83.0,COM,Comoros
+,1200,Central African Republic,2012,10th,103.8,CAF,Central African Republic
+,1201,Chile,2012,151st,43.5,CHL,Chile
+,1202,Costa Rica,2012,139th,49.7,CRI,Costa Rica
+,1203,Cyprus,2012,115th,66.8,CYP,Cyprus
+,1204,Djibouti,2012,53rd,83.8,DJI,Djibouti
+,1205,Equatorial Guinea,2012,43rd,86.3,GNQ,Equatorial Guinea
+,1206,Gambia,2012,63rd,80.6,GMB,Gambia
+,1207,Grenada,2012,121st,65.0,GRD,Grenada
+,1208,El Salvador,2012,93rd,74.4,SLV,El Salvador
+,1209,Haiti,2012,7th,104.9,HTI,Haiti
+,1210,Guatemala,2012,70th,79.4,GTM,Guatemala
+,1211,Guinea,2012,12th,101.9,GIN,Guinea
+,1212,Israel,2012,61st,82.2,ISR,Israel
+,1213,Jordan,2012,90th,74.8,JOR,Jordan
+,1214,Kuwait,2012,128th,58.8,KWT,Kuwait
+,1215,Luxembourg,2012,172nd,25.5,LUX,Luxembourg
+,1216,Madagascar,2012,58th,82.5,MDG,Madagascar
+,1217,Jamaica,2012,119th,65.8,JAM,Jamaica
+,1218,Micronesia,2012,103rd,71.9,FSM,Federated States of Micronesia
+,1219,Lebanon,2012,45th,85.8,LBN,Lebanon
+,1220,Lithuania,2012,149th,44.2,LTU,Lithuania
+,1221,Malawi,2012,36th,88.8,MWI,Malawi
+,1222,Mauritius,2012,147th,44.7,MUS,Mauritius
+,1223,Lesotho,2012,72nd,79.0,LSO,Lesotho
+,1224,Mauritania,2012,38th,87.6,MRT,Mauritania
+,1225,Poland,2012,148th,44.3,POL,Poland
+,1226,Portugal,2012,160th,34.2,PRT,Portugal
+,1227,Peru,2012,99th,73.5,PER,Peru
+,1228,Paraguay,2012,107th,70.9,PRY,Paraguay
+,1229,Philippines,2012,56th,83.2,PHL,Philippines
+,1230,Macedonia,2012,109th,69.1,MKD,Macedonia
+,1231,Tajikistan,2012,46th,85.7,TJK,Tajikistan
+,1232,Montenegro,2012,133rd,55.5,MNE,Montenegro
+,1233,Rwanda,2012,35th,89.3,RWA,Rwanda
+,1234,Samoa,2012,110th,68.5,WSM,Samoa
+,1235,Seychelles,2012,120th,65.1,SYC,Seychelles
+,1236,Singapore,2012,157th,35.6,SGP,Singapore
+,1237,Tanzania,2012,66th,80.4,TZA,United Republic of Tanzania
+,1238,Thailand,2012,84th,77.0,THA,Thailand
+,1239,Sudan,2012,3rd,109.4,SDN,Sudan
+,1240,Sri Lanka,2012,29th,92.2,LKA,Sri Lanka
+,1241,Timor-Leste,2012,28th,92.7,TLS,Timor-Leste
+,1242,Togo,2012,39th,87.5,TGO,Togo
+,1243,Trinidad and Tobago,2012,122nd,64.4,TTO,Trinidad and Tobago
+,1244,Uganda,2012,20th,96.5,UGA,Uganda
+,1245,United Arab Emirates,2012,140th,48.9,ARE,United Arab Emirates
+,1246,Ukraine,2012,113th,67.2,UKR,Ukraine
+,1247,Netherlands,2013,166th,26.9,NLD,Netherlands
+,1248,Bolivia,2013,67th,80.8,BOL,Bolivia
+,1249,Greece,2013,138th,50.6,GRC,Greece
+,1250,Libya,2013,54th,84.5,LBY,Libya
+,1251,Moldova,2013,83rd,76.5,MDA,Moldova
+,1252,Maldives,2013,88th,75.4,MDV,Maldives
+,1253,Malaysia,2013,116th,66.1,MYS,Malaysia
+,1254,Sweden,2013,177th,19.7,SWE,Sweden
+,1255,Mongolia,2013,129th,57.8,MNG,Mongolia
+,1256,Mali,2013,38th,89.3,MLI,Mali
+,1257,Tunisia,2013,83rd,76.5,TUN,Tunisia
+,1258,Qatar,2013,143rd,47.1,QAT,Qatar
+,1259,Turkmenistan,2013,81st,76.7,TKM,Turkmenistan
+,1260,Azerbaijan,2013,76th,78.2,AZE,Azerbaijan
+,1261,Australia,2013,169th,25.4,AUS,Australia
+,1262,Angola,2013,43rd,87.1,AGO,Angola
+,1263,Albania,2013,119th,65.2,ALB,Albania
+,1264,Algeria,2013,73rd,78.7,DZA,Algeria
+,1265,Belarus,2013,81st,76.7,BLR,Belarus
+,1266,Barbados,2013,137th,50.8,BRB,Barbados
+,1267,Bahrain,2013,124th,62.9,BHR,Bahrain
+,1268,Benin,2013,78th,77.9,BEN,Benin
+,1269,Bosnia and Herzegovina,2013,83rd,76.5,BIH,Bosnia and Herzegovina
+,1270,Botswana,2013,121st,64.0,BWA,Botswana
+,1271,Bulgaria,2013,132nd,55.0,BGR,Bulgaria
+,1272,Brazil,2013,126th,62.1,BRA,Brazil
+,1273,Burkina Faso,2013,35th,90.2,BFA,Burkina Faso
+,1274,Democratic Republic of the COngo,2013,2nd,111.9,COD,Democratic Republic of the Congo
+,1275,China,2013,66th,80.9,CHN,China
+,1276,Chad,2013,5th,109.0,TCD,Chad
+,1277,Denmark,2013,174th,21.9,DNK,Denmark
+,1278,Cuba,2013,101st,72.8,CUB,Cuba
+,1279,Dominican Republic,2013,95th,73.2,DOM,Dominican Republic
+,1280,Czech Republic,2013,154th,39.9,CZE,Czech Republic
+,1281,Cote d'Ivoire,2013,12th,103.5,CIV,Ivory Coast
+,1282,Croatia,2013,135th,54.1,HRV,Croatia
+,1283,Ecuador,2013,74th,78.6,ECU,Ecuador
+,1284,Egypt,2013,34th,90.6,EGY,Egypt
+,1285,France,2013,161st,32.6,FRA,France
+,1286,Fiji,2013,67th,80.8,FJI,Fiji
+,1287,Finland,2013,178th,18.0,FIN,Finland
+,1288,Estonia,2013,145th,45.3,EST,Estonia
+,1289,Ethiopia,2013,19th,98.9,ETH,Ethiopia
+,1290,Gabon,2013,99th,72.9,GAB,Gabon
+,1291,Eritrea,2013,25th,95.0,ERI,Eritrea
+,1292,Ghana,2013,110th,69.1,GHA,Ghana
+,1293,Iran,2013,37th,89.7,IRN,Iran
+,1294,Hungary,2013,141st,47.6,HUN,Hungary
+,1295,Iceland,2013,171st,24.7,ISL,Iceland
+,1296,Indonesia,2013,76th,78.2,IDN,Indonesia
+,1297,Iraq,2013,11th,103.9,IRQ,Iraq
+,1298,India,2013,79th,77.5,IND,India
+,1299,Italy,2013,147th,44.6,ITA,Italy
+,1300,Ireland,2013,170th,24.8,IRL,Ireland
+,1301,Honduras,2013,75th,78.3,HND,Honduras
+,1302,Latvia,2013,140th,47.9,LVA,Latvia
+,1303,Kenya,2013,17th,99.6,KEN,Kenya
+,1304,Japan,2013,156th,36.1,JPN,Japan
+,1305,Kazakhstan,2013,109th,69.8,KAZ,Kazakhstan
+,1306,Kyrgyz Republic,2013,48th,85.7,KGZ,Kyrgyzstan
+,1307,Laos,2013,58th,83.7,LAO,Laos
+,1308,Liberia,2013,23rd,95.1,LBR,Liberia
+,1309,Malta,2013,151st,42.4,MLT,Malta
+,1310,Mexico,2013,97th,73.1,MEX,Mexico
+,1311,Morocco,2013,93rd,74.3,MAR,Morocco
+,1312,Nigeria,2013,16th,100.7,NGA,Nigeria
+,1313,Nicaragua,2013,72nd,79.2,NIC,Nicaragua
+,1314,Niger,2013,18th,99.0,NER,Niger
+,1315,New Zealand,2013,173rd,22.7,NZL,New Zealand
+,1316,Myanmar,2013,26th,94.6,MMR,Myanmar
+,1317,Nepal,2013,30th,91.8,NPL,Nepal
+,1318,North Korea,2013,23rd,95.1,PRK,North Korea
+,1319,Namibia,2013,108th,70.4,NAM,Namibia
+,1320,Mozambique,2013,59th,82.8,MOZ,Mozambique
+,1321,Norway,2013,175th,21.5,NOR,Norway
+,1322,Papua New Guinea,2013,53rd,84.9,PNG,Papua New Guinea
+,1323,Pakistan,2013,13th,102.9,PAK,Pakistan
+,1324,Panama,2013,131st,55.8,PAN,Panama
+,1325,Oman,2013,136th,52.0,OMN,Oman
+,1326,Senegal,2013,64th,81.4,SEN,Senegal
+,1327,Russia,2013,80th,77.1,RUS,Russia
+,1328,Serbia,2013,92nd,74.4,SRB,Republic of Serbia
+,1329,Saudi Arabia,2013,102nd,72.7,SAU,Saudi Arabia
+,1330,Romania,2013,130th,57.4,ROU,Romania
+,1331,Spain,2013,149th,44.4,ESP,Spain
+,1332,Slovenia,2013,163rd,32.3,SVN,Slovenia
+,1333,South Korea,2013,157th,35.4,KOR,South Korea
+,1334,Somalia,2013,1st,113.9,SOM,Somalia
+,1335,South Sudan,2013,4th,110.6,SSD,South Sudan
+,1336,Sierra Leone,2013,33rd,91.2,SLE,Sierra Leone
+,1337,South Africa,2013,113th,67.6,ZAF,South Africa
+,1338,Slovak Republic,2013,145th,45.3,SVK,Slovakia
+,1339,Solomon Islands,2013,51st,85.2,SLB,Solomon Islands
+,1340,Suriname,2013,106th,71.2,SUR,Suriname
+,1341,Swaziland,2013,49th,85.6,SWZ,Swaziland
+,1342,Syria,2013,21st,97.4,SYR,Syria
+,1343,Switzerland,2013,175th,21.5,CHE,Switzerland
+,1344,Antigua and Barbuda,2013,128th,58.0,ATG,Antigua and Barbuda
+,1345,Congo,2013,36th,90.0,COG,Republic of Congo
+,1346,Germany,2013,165th,29.7,DEU,Germany
+,1347,Guinea Bissau,2013,15th,101.1,GNB,Guinea Bissau
+,1348,Georgia,2013,55th,84.2,GEO,Georgia
+,1349,Turkey,2013,86th,75.9,TUR,Turkey
+,1350,United Kingdom,2013,160th,33.2,GBR,United Kingdom
+,1351,Vietnam,2013,97th,73.1,VNM,Vietnam
+,1352,Yemen,2013,6th,107.0,YEM,Yemen
+,1353,Zambia,2013,45th,86.6,ZMB,Zambia
+,1354,Uzbekistan,2013,44th,86.9,UZB,Uzbekistan
+,1355,Uruguay,2013,155th,38.4,URY,Uruguay
+,1356,Venezuela,2013,89th,75.3,VEN,Venezuela
+,1357,Zimbabwe,2013,10th,105.2,ZWE,Zimbabwe
+,1358,United States,2013,159th,33.5,USA,United States of America
+,1359,Brunei Darussalam,2013,123rd,63.2,BRN,Brunei
+,1360,Canada,2013,168th,26.0,CAN,Canada
+,1361,Armenia,2013,105th,71.3,ARM,Armenia
+,1362,Austria,2013,166th,26.9,AUT,Austria
+,1363,Afghanistan,2013,7th,106.7,AFG,Afghanistan
+,1364,Argentina,2013,144th,46.1,ARG,Argentina
+,1365,Bhutan,2013,62nd,81.8,BTN,Bhutan
+,1366,Belgium,2013,164th,30.9,BEL,Belgium
+,1367,Bahamas,2013,133rd,54.7,BHS,The Bahamas
+,1368,Bangladesh,2013,29th,92.5,BGD,Bangladesh
+,1369,Belize,2013,114th,67.2,BLZ,Belize
+,1370,Cambodia,2013,41st,88.0,KHM,Cambodia
+,1371,Cameroon,2013,27th,93.5,CMR,Cameroon
+,1372,Guyana,2013,107th,70.8,GUY,Guyana
+,1373,Cape Verde,2013,94th,73.7,CPV,Cape Verde
+,1374,Sao Tome and Principe,2013,91st,74.6,STP,Sao Tome and Principe
+,1375,Burundi,2013,20th,97.6,BDI,Burundi
+,1376,Colombia,2013,57th,83.8,COL,Colombia
+,1377,Comoros,2013,56th,84.0,COM,Comoros
+,1378,Central African Republic,2013,9th,105.3,CAF,Central African Republic
+,1379,Chile,2013,152nd,42.3,CHL,Chile
+,1380,Costa Rica,2013,139th,48.7,CRI,Costa Rica
+,1381,Cyprus,2013,115th,67.0,CYP,Cyprus
+,1382,Djibouti,2013,50th,85.5,DJI,Djibouti
+,1383,Equatorial Guinea,2013,47th,86.1,GNQ,Equatorial Guinea
+,1384,Gambia,2013,62nd,81.8,GMB,Gambia
+,1385,Grenada,2013,120th,64.6,GRD,Grenada
+,1386,El Salvador,2013,95th,73.2,SLV,El Salvador
+,1387,Haiti,2013,8th,105.8,HTI,Haiti
+,1388,Guatemala,2013,70th,80.7,GTM,Guatemala
+,1389,Guinea,2013,14th,101.3,GIN,Guinea
+,1390,Israel,2013,67th,80.8,ISR,Israel
+,1391,Jordan,2013,87th,75.7,JOR,Jordan
+,1392,Kuwait,2013,127th,59.6,KWT,Kuwait
+,1393,Luxembourg,2013,172nd,23.3,LUX,Luxembourg
+,1394,Madagascar,2013,61st,82.7,MDG,Madagascar
+,1395,Jamaica,2013,118th,65.6,JAM,Jamaica
+,1396,Micronesia,2013,99th,72.9,FSM,Federated States of Micronesia
+,1397,Lebanon,2013,46th,86.3,LBN,Lebanon
+,1398,Lithuania,2013,150th,43.0,LTU,Lithuania
+,1399,Malawi,2013,40th,89.2,MWI,Malawi
+,1400,Mauritius,2013,148th,44.5,MUS,Mauritius
+,1401,Lesotho,2013,71st,79.4,LSO,Lesotho
+,1402,Mauritania,2013,31st,91.7,MRT,Mauritania
+,1403,Poland,2013,153rd,40.9,POL,Poland
+,1404,Portugal,2013,161st,32.6,PRT,Portugal
+,1405,Peru,2013,103rd,72.3,PER,Peru
+,1406,Paraguay,2013,104th,71.8,PRY,Paraguay
+,1407,Philippines,2013,59th,82.8,PHL,Philippines
+,1408,Macedonia,2013,112th,68.0,MKD,Macedonia
+,1409,Tajikistan,2013,51st,85.2,TJK,Tajikistan
+,1410,Montenegro,2013,134th,54.4,MNE,Montenegro
+,1411,Rwanda,2013,38th,89.3,RWA,Rwanda
+,1412,Samoa,2013,111th,68.7,WSM,Samoa
+,1413,Seychelles,2013,121st,64.0,SYC,Seychelles
+,1414,Singapore,2013,158th,34.0,SGP,Singapore
+,1415,Tanzania,2013,65th,81.1,TZA,United Republic of Tanzania
+,1416,Thailand,2013,90th,75.1,THA,Thailand
+,1417,Sudan,2013,3rd,111.0,SDN,Sudan
+,1418,Sri Lanka,2013,28th,92.9,LKA,Sri Lanka
+,1419,Timor-Leste,2013,32nd,91.5,TLS,Timor-Leste
+,1420,Togo,2013,42nd,87.8,TGO,Togo
+,1421,Trinidad and Tobago,2013,125th,62.6,TTO,Trinidad and Tobago
+,1422,Uganda,2013,22nd,96.6,UGA,Uganda
+,1423,United Arab Emirates,2013,142nd,47.3,ARE,United Arab Emirates
+,1424,Ukraine,2013,117th,65.9,UKR,Ukraine
+,1425,Netherlands,2014,166th,28.6,NLD,Netherlands
+,1426,Bolivia,2014,70th,78.9,BOL,Bolivia
+,1427,Greece,2014,137th,52.1,GRC,Greece
+,1428,Libya,2014,41st,87.8,LBY,Libya
+,1429,Moldova,2014,89th,75.1,MDA,Moldova
+,1430,Maldives,2014,88th,75.4,MDV,Maldives
+,1431,Malaysia,2014,117th,66.2,MYS,Malaysia
+,1432,Sweden,2014,177th,21.4,SWE,Sweden
+,1433,Mongolia,2014,129th,58.1,MNG,Mongolia
+,1434,Mali,2014,36th,89.8,MLI,Mali
+,1435,Tunisia,2014,78th,77.5,TUN,Tunisia
+,1436,Qatar,2014,139th,48.9,QAT,Qatar
+,1437,Turkmenistan,2014,74th,78.2,TKM,Turkmenistan
+,1438,Azerbaijan,2014,76th,77.8,AZE,Azerbaijan
+,1439,Australia,2014,169th,26.3,AUS,Australia
+,1440,Angola,2014,43rd,87.4,AGO,Angola
+,1441,Albania,2014,123rd,63.6,ALB,Albania
+,1442,Algeria,2014,71st,78.8,DZA,Algeria
+,1443,Belarus,2014,90th,75.0,BLR,Belarus
+,1444,Barbados,2014,138th,51.4,BRB,Barbados
+,1445,Bahrain,2014,120th,64.7,BHR,Bahrain
+,1446,Benin,2014,74th,78.2,BEN,Benin
+,1447,Bosnia and Herzegovina,2014,86th,75.9,BIH,Bosnia and Herzegovina
+,1448,Botswana,2014,121st,64.5,BWA,Botswana
+,1449,Bulgaria,2014,133rd,54.4,BGR,Bulgaria
+,1450,Brazil,2014,125th,61.4,BRA,Brazil
+,1451,Burkina Faso,2014,39th,89.0,BFA,Burkina Faso
+,1452,Democratic Republic of the COngo,2014,4th,110.2,COD,Democratic Republic of the Congo
+,1453,China,2014,68th,79.0,CHN,China
+,1454,Chad,2014,6th,108.7,TCD,Chad
+,1455,Denmark,2014,176th,22.8,DNK,Denmark
+,1456,Cuba,2014,107th,70.8,CUB,Cuba
+,1457,Dominican Republic,2014,95th,73.4,DOM,Dominican Republic
+,1458,Czech Republic,2014,154th,39.4,CZE,Czech Republic
+,1459,Cote d'Ivoire,2014,14th,101.7,CIV,Ivory Coast
+,1460,Croatia,2014,136th,52.9,HRV,Croatia
+,1461,Ecuador,2014,79th,77.3,ECU,Ecuador
+,1462,Egypt,2014,31st,91.0,EGY,Egypt
+,1463,France,2014,160th,34.8,FRA,France
+,1464,Fiji,2014,68th,79.0,FJI,Fiji
+,1465,Finland,2014,178th,18.7,FIN,Finland
+,1466,Estonia,2014,147th,45.2,EST,Estonia
+,1467,Ethiopia,2014,19th,97.9,ETH,Ethiopia
+,1468,Gabon,2014,99th,72.2,GAB,Gabon
+,1469,Eritrea,2014,23rd,95.5,ERI,Eritrea
+,1470,Ghana,2014,108th,70.7,GHA,Ghana
+,1471,Iran,2014,44th,87.2,IRN,Iran
+,1472,Hungary,2014,141st,48.3,HUN,Hungary
+,1473,Iceland,2014,171st,25.9,ISL,Iceland
+,1474,Indonesia,2014,82nd,76.8,IDN,Indonesia
+,1475,Iraq,2014,13th,102.2,IRQ,Iraq
+,1476,India,2014,81st,76.9,IND,India
+,1477,Italy,2014,148th,43.4,ITA,Italy
+,1478,Ireland,2014,170th,26.1,IRL,Ireland
+,1479,Honduras,2014,75th,77.9,HND,Honduras
+,1480,Latvia,2014,142nd,48.0,LVA,Latvia
+,1481,Kenya,2014,18th,99.0,KEN,Kenya
+,1482,Japan,2014,157th,36.3,JPN,Japan
+,1483,Kazakhstan,2014,111th,68.5,KAZ,Kazakhstan
+,1484,Kyrgyz Republic,2014,58th,83.9,KGZ,Kyrgyzstan
+,1485,Laos,2014,56th,84.3,LAO,Laos
+,1486,Liberia,2014,24th,94.3,LBR,Liberia
+,1487,Malta,2014,151st,43.0,MLT,Malta
+,1488,Mexico,2014,105th,71.1,MEX,Mexico
+,1489,Morocco,2014,92nd,74.4,MAR,Morocco
+,1490,Nigeria,2014,17th,99.7,NGA,Nigeria
+,1491,Nicaragua,2014,73rd,78.4,NIC,Nicaragua
+,1492,Niger,2014,19th,97.9,NER,Niger
+,1493,New Zealand,2014,173rd,24.1,NZL,New Zealand
+,1494,Myanmar,2014,24th,94.3,MMR,Myanmar
+,1495,Nepal,2014,31st,91.0,NPL,Nepal
+,1496,North Korea,2014,26th,94.0,PRK,North Korea
+,1497,Namibia,2014,103rd,71.5,NAM,Namibia
+,1498,Mozambique,2014,50th,85.9,MOZ,Mozambique
+,1499,Norway,2014,175th,23.0,NOR,Norway
+,1500,Papua New Guinea,2014,57th,84.1,PNG,Papua New Guinea
+,1501,Pakistan,2014,10th,103.0,PAK,Pakistan
+,1502,Panama,2014,131st,55.7,PAN,Panama
+,1503,Oman,2014,135th,53.1,OMN,Oman
+,1504,Senegal,2014,62nd,82.8,SEN,Senegal
+,1505,Russia,2014,85th,76.5,RUS,Russia
+,1506,Serbia,2014,100th,72.0,SRB,Republic of Serbia
+,1507,Saudi Arabia,2014,96th,73.1,SAU,Saudi Arabia
+,1508,Romania,2014,130th,56.9,ROU,Romania
+,1509,Spain,2014,150th,43.1,ESP,Spain
+,1510,Slovenia,2014,163rd,32.6,SVN,Slovenia
+,1511,South Korea,2014,156th,36.4,KOR,South Korea
+,1512,Somalia,2014,2nd,112.6,SOM,Somalia
+,1513,South Sudan,2014,1st,112.9,SSD,South Sudan
+,1514,Sierra Leone,2014,35th,89.9,SLE,Sierra Leone
+,1515,South Africa,2014,115th,66.6,ZAF,South Africa
+,1516,Slovak Republic,2014,146th,45.3,SVK,Slovakia
+,1517,Solomon Islands,2014,47th,86.4,SLB,Solomon Islands
+,1518,Suriname,2014,109th,70.6,SUR,Suriname
+,1519,Swaziland,2014,51st,85.8,SWZ,Swaziland
+,1521,Switzerland,2014,174th,23.3,CHE,Switzerland
+,1522,Antigua and Barbuda,2014,127th,59.0,ATG,Antigua and Barbuda
+,1523,Congo,2014,37th,89.6,COG,Republic of Congo
+,1524,Germany,2014,165th,30.6,DEU,Germany
+,1525,Guinea Bissau,2014,16th,100.6,GNB,Guinea Bissau
+,1526,Georgia,2014,63rd,82.7,GEO,Georgia
+,1527,Turkey,2014,93rd,74.1,TUR,Turkey
+,1528,United Kingdom,2014,161st,34.3,GBR,United Kingdom
+,1529,Vietnam,2014,98th,72.7,VNM,Vietnam
+,1530,Yemen,2014,8th,105.4,YEM,Yemen
+,1531,Zambia,2014,49th,86.2,ZMB,Zambia
+,1532,Uzbekistan,2014,48th,86.3,UZB,Uzbekistan
+,1533,Uruguay,2014,155th,37.9,URY,Uruguay
+,1534,Venezuela,2014,83rd,76.7,VEN,Venezuela
+,1535,Zimbabwe,2014,11th,102.8,ZWE,Zimbabwe
+,1536,United States,2014,159th,35.4,USA,United States of America
+,1537,Brunei Darussalam,2014,123rd,63.6,BRN,Brunei
+,1538,Canada,2014,168th,27.4,CAN,Canada
+,1539,Armenia,2014,104th,71.3,ARM,Armenia
+,1540,Austria,2014,167th,28.5,AUT,Austria
+,1541,Afghanistan,2014,7th,106.5,AFG,Afghanistan
+,1542,Argentina,2014,144th,47.3,ARG,Argentina
+,1543,Bhutan,2014,64th,80.9,BTN,Bhutan
+,1544,Belgium,2014,164th,32.0,BEL,Belgium
+,1545,Bahamas,2014,134th,54.1,BHS,The Bahamas
+,1546,Bangladesh,2014,29th,92.8,BGD,Bangladesh
+,1547,Belize,2014,114th,67.0,BLZ,Belize
+,1548,Cambodia,2014,40th,88.5,KHM,Cambodia
+,1549,Cameroon,2014,27th,93.1,CMR,Cameroon
+,1550,Guyana,2014,106th,71.0,GUY,Guyana
+,1551,Cape Verde,2014,93rd,74.1,CPV,Cape Verde
+,1552,Sao Tome and Principe,2014,87th,75.8,STP,Sao Tome and Principe
+,1553,Burundi,2014,21st,97.1,BDI,Burundi
+,1554,Colombia,2014,59th,83.1,COL,Colombia
+,1555,Comoros,2014,54th,85.1,COM,Comoros
+,1556,Central African Republic,2014,3rd,110.6,CAF,Central African Republic
+,1557,Chile,2014,153rd,42.0,CHL,Chile
+,1558,Costa Rica,2014,140th,48.5,CRI,Costa Rica
+,1559,Cyprus,2014,112th,67.9,CYP,Cyprus
+,1560,Djibouti,2014,45th,87.1,DJI,Djibouti
+,1561,Equatorial Guinea,2014,52nd,85.3,GNQ,Equatorial Guinea
+,1562,Gambia,2014,59th,83.1,GMB,Gambia
+,1563,Grenada,2014,118th,65.2,GRD,Grenada
+,1564,El Salvador,2014,100th,72.0,SLV,El Salvador
+,1565,Haiti,2014,9th,104.3,HTI,Haiti
+,1566,Guatemala,2014,66th,80.3,GTM,Guatemala
+,1567,Guinea,2014,12th,102.7,GIN,Guinea
+,1568,Israel,2014,67th,79.5,ISR,Israel
+,1569,Jordan,2014,83rd,76.7,JOR,Jordan
+,1570,Kuwait,2014,127th,59.0,KWT,Kuwait
+,1571,Luxembourg,2014,172nd,24.6,LUX,Luxembourg
+,1572,Madagascar,2014,59th,83.1,MDG,Madagascar
+,1573,Jamaica,2014,119th,64.9,JAM,Jamaica
+,1574,Micronesia,2014,91st,74.6,FSM,Federated States of Micronesia
+,1575,Lebanon,2014,46th,86.9,LBN,Lebanon
+,1576,Lithuania,2014,149th,43.2,LTU,Lithuania
+,1577,Malawi,2014,38th,89.1,MWI,Malawi
+,1578,Mauritius,2014,145th,46.1,MUS,Mauritius
+,1579,Lesotho,2014,72nd,78.6,LSO,Lesotho
+,1580,Mauritania,2014,28th,93.0,MRT,Mauritania
+,1581,Poland,2014,152nd,42.1,POL,Poland
+,1582,Portugal,2014,162nd,33.1,PRT,Portugal
+,1583,Peru,2014,97th,72.9,PER,Peru
+,1584,Paraguay,2014,102nd,71.6,PRY,Paraguay
+,1585,Philippines,2014,52nd,85.3,PHL,Philippines
+,1586,Macedonia,2014,116th,66.4,MKD,Macedonia
+,1587,Tajikistan,2014,55th,84.6,TJK,Tajikistan
+,1588,Montenegro,2014,131st,55.7,MNE,Montenegro
+,1589,Rwanda,2014,34th,90.5,RWA,Rwanda
+,1590,Samoa,2014,110th,69.3,WSM,Samoa
+,1591,Seychelles,2014,122nd,63.7,SYC,Seychelles
+,1592,Singapore,2014,158th,35.9,SGP,Singapore
+,1593,Tanzania,2014,65th,80.8,TZA,United Republic of Tanzania
+,1594,Thailand,2014,80th,77.0,THA,Thailand
+,1595,Sudan,2014,5th,110.1,SDN,Sudan
+,1596,Sri Lanka,2014,30th,92.6,LKA,Sri Lanka
+,1597,Timor-Leste,2014,31st,91.0,TLS,Timor-Leste
+,1598,Togo,2014,41st,87.8,TGO,Togo
+,1599,Trinidad and Tobago,2014,126th,61.3,TTO,Trinidad and Tobago
+,1600,Uganda,2014,22nd,96.0,UGA,Uganda
+,1601,United Arab Emirates,2014,143rd,47.6,ARE,United Arab Emirates
+,1602,Ukraine,2014,113th,67.2,UKR,Ukraine
+,1603,Netherlands,2015,166th,26.9,NLD,Netherlands
+,1604,Bolivia,2015,76th,78.1,BOL,Bolivia
+,1605,Greece,2015,134th,52.6,GRC,Greece
+,1606,Libya,2015,25th,95.3,LBY,Libya
+,1607,Moldova,2015,96th,73.0,MDA,Moldova
+,1608,Maldives,2015,91st,74.3,MDV,Maldives
+,1609,Malaysia,2015,115th,65.9,MYS,Malaysia
+,1610,Sweden,2015,177th,20.2,SWE,Sweden
+,1611,Mongolia,2015,129th,57.0,MNG,Mongolia
+,1612,Mali,2015,30th,92.9,MLI,Mali
+,1613,Tunisia,2015,86th,75.7,TUN,Tunisia
+,1614,Qatar,2015,143rd,46.3,QAT,Qatar
+,1615,Turkmenistan,2015,78th,77.4,TKM,Turkmenistan
+,1616,Azerbaijan,2015,80th,77.3,AZE,Azerbaijan
+,1617,Australia,2015,170th,24.3,AUS,Australia
+,1618,Angola,2015,42nd,87.9,AGO,Angola
+,1619,Albania,2015,125th,61.9,ALB,Albania
+,1620,Algeria,2015,67th,79.6,DZA,Algeria
+,1621,Belarus,2015,87th,75.6,BLR,Belarus
+,1622,Barbados,2015,138th,49.3,BRB,Barbados
+,1623,Bahrain,2015,119th,64.4,BHR,Bahrain
+,1624,Benin,2015,73rd,78.8,BEN,Benin
+,1625,Bosnia and Herzegovina,2015,78th,77.4,BIH,Bosnia and Herzegovina
+,1626,Botswana,2015,122nd,62.8,BWA,Botswana
+,1627,Bulgaria,2015,130th,55.4,BGR,Bulgaria
+,1628,Brazil,2015,123rd,62.7,BRA,Brazil
+,1629,Burkina Faso,2015,39th,89.2,BFA,Burkina Faso
+,1630,Democratic Republic of the COngo,2015,5th,109.7,COD,Democratic Republic of the Congo
+,1631,China,2015,83rd,76.5,CHN,China
+,1632,Chad,2015,6th,108.4,TCD,Chad
+,1633,Denmark,2015,175th,21.4,DNK,Denmark
+,1634,Cuba,2015,112th,67.4,CUB,Cuba
+,1635,Dominican Republic,2015,104th,71.2,DOM,Dominican Republic
+,1636,Czech Republic,2015,154th,37.4,CZE,Czech Republic
+,1637,Cote d'Ivoire,2015,15th,100.1,CIV,Ivory Coast
+,1638,Croatia,2015,137th,51.0,HRV,Croatia
+,1639,Ecuador,2015,85th,75.9,ECU,Ecuador
+,1640,Egypt,2015,38th,89.9,EGY,Egypt
+,1641,France,2015,160th,33.7,FRA,France
+,1642,Fiji,2015,82nd,76.7,FJI,Fiji
+,1643,Finland,2015,178th,17.7,FIN,Finland
+,1644,Estonia,2015,146th,43.7,EST,Estonia
+,1645,Ethiopia,2015,20th,97.5,ETH,Ethiopia
+,1646,Gabon,2015,104th,71.2,GAB,Gabon
+,1647,Eritrea,2015,24th,96.9,ERI,Eritrea
+,1648,Ghana,2015,100th,71.8,GHA,Ghana
+,1649,Iran,2015,44th,87.1,IRN,Iran
+,1650,Hungary,2015,139th,49.1,HUN,Hungary
+,1651,Iceland,2015,171st,23.4,ISL,Iceland
+,1652,Indonesia,2015,88th,75.0,IDN,Indonesia
+,1653,Iraq,2015,12th,104.4,IRQ,Iraq
+,1654,India,2015,69th,79.3,IND,India
+,1655,Italy,2015,147th,43.2,ITA,Italy
+,1656,Ireland,2015,169th,24.6,IRL,Ireland
+,1657,Honduras,2015,76th,78.1,HND,Honduras
+,1658,Latvia,2015,140th,48.5,LVA,Latvia
+,1659,Kenya,2015,21st,97.3,KEN,Kenya
+,1660,Japan,2015,157th,36.0,JPN,Japan
+,1661,Kazakhstan,2015,110th,68.3,KAZ,Kazakhstan
+,1662,Kyrgyz Republic,2015,62nd,82.2,KGZ,Kyrgyzstan
+,1663,Laos,2015,55th,84.4,LAO,Laos
+,1664,Liberia,2015,21st,97.3,LBR,Liberia
+,1665,Malta,2015,151st,40.9,MLT,Malta
+,1666,Mexico,2015,99th,71.9,MEX,Mexico
+,1667,Morocco,2015,89th,74.6,MAR,Morocco
+,1668,Nigeria,2015,14th,102.5,NGA,Nigeria
+,1669,Nicaragua,2015,72nd,79.0,NIC,Nicaragua
+,1670,Niger,2015,19th,97.8,NER,Niger
+,1671,New Zealand,2015,172nd,22.6,NZL,New Zealand
+,1672,Myanmar,2015,27th,94.7,MMR,Myanmar
+,1673,Nepal,2015,35th,90.5,NPL,Nepal
+,1674,North Korea,2015,29th,93.8,PRK,North Korea
+,1675,Namibia,2015,106th,70.8,NAM,Namibia
+,1676,Mozambique,2015,46th,86.9,MOZ,Mozambique
+,1677,Norway,2015,176th,20.9,NOR,Norway
+,1678,Papua New Guinea,2015,57th,83.4,PNG,Papua New Guinea
+,1679,Pakistan,2015,13th,103.0,PAK,Pakistan
+,1680,Panama,2015,131st,54.6,PAN,Panama
+,1681,Oman,2015,135th,52.0,OMN,Oman
+,1682,Senegal,2015,60th,82.9,SEN,Senegal
+,1683,Russia,2015,65th,80.0,RUS,Russia
+,1684,Serbia,2015,92nd,73.8,SRB,Republic of Serbia
+,1685,Saudi Arabia,2015,101st,71.6,SAU,Saudi Arabia
+,1686,Romania,2015,132nd,54.2,ROU,Romania
+,1687,Spain,2015,151st,40.9,ESP,Spain
+,1688,Slovenia,2015,162nd,31.5,SVN,Slovenia
+,1689,South Korea,2015,156th,36.3,KOR,South Korea
+,1690,Somalia,2015,2nd,114.0,SOM,Somalia
+,1691,South Sudan,2015,1st,114.5,SSD,South Sudan
+,1692,Sierra Leone,2015,31st,91.9,SLE,Sierra Leone
+,1693,South Africa,2015,113th,67.0,ZAF,South Africa
+,1694,Slovak Republic,2015,149th,42.6,SVK,Slovakia
+,1695,Solomon Islands,2015,50th,85.9,SLB,Solomon Islands
+,1696,Suriname,2015,109th,68.4,SUR,Suriname
+,1697,Swaziland,2015,48th,86.2,SWZ,Swaziland
+,1698,Syria,2015,9th,107.8,SYR,Syria
+,1699,Switzerland,2015,173rd,22.3,CHE,Switzerland
+,1700,Antigua and Barbuda,2015,127th,57.8,ATG,Antigua and Barbuda
+,1701,Congo,2015,33rd,90.8,COG,Republic of Congo
+,1702,Germany,2015,165th,28.1,DEU,Germany
+,1703,Guinea Bissau,2015,17th,99.9,GNB,Guinea Bissau
+,1704,Georgia,2015,70th,79.2,GEO,Georgia
+,1705,Turkey,2015,89th,74.6,TUR,Turkey
+,1706,United Kingdom,2015,161st,33.4,GBR,United Kingdom
+,1707,Vietnam,2015,97th,72.4,VNM,Vietnam
+,1708,Yemen,2015,7th,108.2,YEM,Yemen
+,1709,Zambia,2015,53rd,85.1,ZMB,Zambia
+,1710,Uzbekistan,2015,52nd,85.3,UZB,Uzbekistan
+,1711,Uruguay,2015,155th,36.4,URY,Uruguay
+,1712,Venezuela,2015,74th,78.7,VEN,Venezuela
+,1713,Zimbabwe,2015,16th,100.0,ZWE,Zimbabwe
+,1714,United States,2015,158th,35.4,USA,United States of America
+,1715,Brunei Darussalam,2015,121st,63.0,BRN,Brunei
+,1716,Canada,2015,168th,25.6,CAN,Canada
+,1717,Armenia,2015,108th,69.7,ARM,Armenia
+,1718,Austria,2015,167th,25.8,AUT,Austria
+,1719,Afghanistan,2015,8th,107.9,AFG,Afghanistan
+,1720,Argentina,2015,141st,47.6,ARG,Argentina
+,1721,Bhutan,2015,74th,78.7,BTN,Bhutan
+,1722,Belgium,2015,163rd,30.5,BEL,Belgium
+,1723,Bahamas,2015,136th,51.5,BHS,The Bahamas
+,1724,Bangladesh,2015,32nd,91.8,BGD,Bangladesh
+,1725,Belize,2015,116th,65.3,BLZ,Belize
+,1726,Cambodia,2015,42nd,87.9,KHM,Cambodia
+,1727,Cameroon,2015,28th,94.3,CMR,Cameroon
+,1728,Guyana,2015,107th,70.5,GUY,Guyana
+,1729,Cape Verde,2015,94th,73.5,CPV,Cape Verde
+,1730,Sao Tome and Principe,2015,93rd,73.7,STP,Sao Tome and Principe
+,1731,Burundi,2015,18th,98.0,BDI,Burundi
+,1732,Colombia,2015,61st,82.5,COL,Colombia
+,1733,Comoros,2015,59th,83.3,COM,Comoros
+,1734,Central African Republic,2015,3rd,111.9,CAF,Central African Republic
+,1735,Chile,2015,150th,41.5,CHL,Chile
+,1736,Costa Rica,2015,142nd,46.8,CRI,Costa Rica
+,1737,Cyprus,2015,114th,66.2,CYP,Cyprus
+,1738,Djibouti,2015,41st,88.0,DJI,Djibouti
+,1739,Equatorial Guinea,2015,54th,84.8,GNQ,Equatorial Guinea
+,1740,Gambia,2015,51st,85.4,GMB,Gambia
+,1741,Grenada,2015,120th,63.5,GRD,Grenada
+,1742,El Salvador,2015,102nd,71.4,SLV,El Salvador
+,1743,Haiti,2015,11th,104.5,HTI,Haiti
+,1744,Guatemala,2015,64th,80.4,GTM,Guatemala
+,1745,Guinea,2015,10th,104.9,GIN,Guinea
+,1746,Israel,2015,68th,79.4,ISR,Israel
+,1747,Jordan,2015,81st,76.9,JOR,Jordan
+,1748,Kuwait,2015,128th,57.5,KWT,Kuwait
+,1749,Luxembourg,2015,174th,22.1,LUX,Luxembourg
+,1750,Madagascar,2015,56th,83.6,MDG,Madagascar
+,1751,Jamaica,2015,117th,64.6,JAM,Jamaica
+,1752,Micronesia,2015,94th,73.5,FSM,Federated States of Micronesia
+,1753,Lebanon,2015,40th,88.1,LBN,Lebanon
+,1754,Lithuania,2015,148th,43.0,LTU,Lithuania
+,1755,Malawi,2015,44th,86.9,MWI,Malawi
+,1756,Mauritius,2015,145th,45.2,MUS,Mauritius
+,1757,Lesotho,2015,66th,79.9,LSO,Lesotho
+,1758,Mauritania,2015,26th,94.9,MRT,Mauritania
+,1759,Poland,2015,153rd,39.8,POL,Poland
+,1760,Portugal,2015,164th,29.7,PRT,Portugal
+,1761,Peru,2015,98th,72.0,PER,Peru
+,1762,Paraguay,2015,103rd,71.3,PRY,Paraguay
+,1763,Philippines,2015,48th,86.2,PHL,Philippines
+,1764,Macedonia,2015,118th,64.5,MKD,Macedonia
+,1765,Tajikistan,2015,57th,83.4,TJK,Tajikistan
+,1766,Montenegro,2015,132nd,54.2,MNE,Montenegro
+,1767,Rwanda,2015,37th,90.2,RWA,Rwanda
+,1768,Samoa,2015,111th,68.2,WSM,Samoa
+,1769,Seychelles,2015,124th,62.1,SYC,Seychelles
+,1770,Singapore,2015,159th,34.4,SGP,Singapore
+,1771,Tanzania,2015,63rd,80.8,TZA,United Republic of Tanzania
+,1772,Thailand,2015,71st,79.1,THA,Thailand
+,1773,Sudan,2015,4th,110.8,SDN,Sudan
+,1774,Sri Lanka,2015,34th,90.7,LKA,Sri Lanka
+,1775,Timor-Leste,2015,35th,90.5,TLS,Timor-Leste
+,1776,Togo,2015,47th,86.8,TGO,Togo
+,1777,Trinidad and Tobago,2015,126th,58.7,TTO,Trinidad and Tobago
+,1778,Uganda,2015,23rd,97.0,UGA,Uganda
+,1779,United Arab Emirates,2015,144th,46.2,ARE,United Arab Emirates
+,1780,Ukraine,2015,84th,76.3,UKR,Ukraine
+,1781,Netherlands,2016,166th,28.2,NLD,Netherlands
+,1782,Bolivia,2016,75th,78.5,BOL,Bolivia
+,1783,Greece,2016,130th,55.9,GRC,Greece
+,1784,Libya,2016,25th,96.4,LBY,Libya
+,1785,Moldova,2016,93rd,73.2,MDA,Moldova
+,1786,Maldives,2016,91st,74.0,MDV,Maldives
+,1787,Malaysia,2016,115th,66.1,MYS,Malaysia
+,1788,Sweden,2016,171st,22.6,SWE,Sweden
+,1789,Mongolia,2016,128th,56.6,MNG,Mongolia
+,1790,Mali,2016,29th,95.2,MLI,Mali
+,1791,Tunisia,2016,88th,74.6,TUN,Tunisia
+,1792,Qatar,2016,142nd,45.1,QAT,Qatar
+,1793,Turkmenistan,2016,83rd,76.0,TKM,Turkmenistan
+,1794,Azerbaijan,2016,81st,76.3,AZE,Azerbaijan
+,1795,Australia,2016,172nd,22.5,AUS,Australia
+,1796,Angola,2016,37th,90.5,AGO,Angola
+,1797,Albania,2016,124th,61.2,ALB,Albania
+,1798,Algeria,2016,76th,78.3,DZA,Algeria
+,1799,Belarus,2016,92nd,73.9,BLR,Belarus
+,1800,Barbados,2016,139th,49.0,BRB,Barbados
+,1801,Bahrain,2016,121st,63.4,BHR,Bahrain
+,1802,Benin,2016,72nd,78.9,BEN,Benin
+,1803,Bosnia and Herzegovina,2016,88th,74.6,BIH,Bosnia and Herzegovina
+,1804,Botswana,2016,120th,63.5,BWA,Botswana
+,1805,Bulgaria,2016,132nd,53.7,BGR,Bulgaria
+,1806,Brazil,2016,117th,65.3,BRA,Brazil
+,1807,Burkina Faso,2016,41st,89.4,BFA,Burkina Faso
+,1808,Democratic Republic of the COngo,2016,8th,110.0,COD,Democratic Republic of the Congo
+,1809,China,2016,86th,74.9,CHN,China
+,1810,Chad,2016,7th,110.1,TCD,Chad
+,1811,Denmark,2016,175th,21.5,DNK,Denmark
+,1812,Cuba,2016,114th,66.3,CUB,Cuba
+,1813,Dominican Republic,2016,105th,70.8,DOM,Dominican Republic
+,1814,Czech Republic,2016,151st,40.8,CZE,Czech Republic
+,1815,Cote d'Ivoire,2016,21st,97.9,CIV,Ivory Coast
+,1816,Croatia,2016,136th,52.4,HRV,Croatia
+,1817,Ecuador,2016,84th,75.6,ECU,Ecuador
+,1818,Egypt,2016,38th,90.2,EGY,Egypt
+,1819,France,2016,158th,34.5,FRA,France
+,1820,Fiji,2016,82nd,76.2,FJI,Fiji
+,1821,Finland,2016,178th,18.8,FIN,Finland
+,1822,Estonia,2016,146th,43.4,EST,Estonia
+,1823,Ethiopia,2016,24th,97.2,ETH,Ethiopia
+,1824,Gabon,2016,98th,72.0,GAB,Gabon
+,1825,Eritrea,2016,18th,98.6,ERI,Eritrea
+,1826,Ghana,2016,102nd,71.2,GHA,Ghana
+,1827,Iran,2016,47th,86.9,IRN,Iran
+,1828,Hungary,2016,135th,52.7,HUN,Hungary
+,1829,Iceland,2016,170th,22.8,ISL,Iceland
+,1830,Indonesia,2016,86th,74.9,IDN,Indonesia
+,1831,Iraq,2016,11th,104.7,IRQ,Iraq
+,1832,India,2016,70th,79.6,IND,India
+,1833,Italy,2016,148th,43.1,ITA,Italy
+,1834,Ireland,2016,172nd,22.5,IRL,Ireland
+,1835,Honduras,2016,68th,79.8,HND,Honduras
+,1836,Latvia,2016,141st,47.4,LVA,Latvia
+,1837,Kenya,2016,20th,98.3,KEN,Kenya
+,1838,Japan,2016,157th,35.1,JPN,Japan
+,1839,Kazakhstan,2016,113th,66.5,KAZ,Kazakhstan
+,1840,Kyrgyz Republic,2016,64th,81.1,KGZ,Kyrgyzstan
+,1841,Laos,2016,55th,84.4,LAO,Laos
+,1842,Liberia,2016,27th,95.5,LBR,Liberia
+,1843,Malta,2016,154th,39.6,MLT,Malta
+,1844,Mexico,2016,107th,70.4,MEX,Mexico
+,1845,Morocco,2016,89th,74.2,MAR,Morocco
+,1846,Nigeria,2016,13th,103.5,NGA,Nigeria
+,1847,Nicaragua,2016,71st,79.0,NIC,Nicaragua
+,1848,Niger,2016,19th,98.4,NER,Niger
+,1849,New Zealand,2016,176th,21.3,NZL,New Zealand
+,1850,Myanmar,2016,26th,96.3,MMR,Myanmar
+,1851,Nepal,2016,33rd,91.2,NPL,Nepal
+,1852,North Korea,2016,30th,93.9,PRK,North Korea
+,1853,Namibia,2016,103rd,71.1,NAM,Namibia
+,1854,Mozambique,2016,42nd,87.8,MOZ,Mozambique
+,1855,Norway,2016,177th,21.2,NOR,Norway
+,1856,Papua New Guinea,2016,50th,86.2,PNG,Papua New Guinea
+,1857,Pakistan,2016,14th,101.7,PAK,Pakistan
+,1858,Panama,2016,133rd,53.2,PAN,Panama
+,1859,Oman,2016,137th,51.6,OMN,Oman
+,1860,Senegal,2016,59th,83.6,SEN,Senegal
+,1861,Russia,2016,65th,81.0,RUS,Russia
+,1862,Serbia,2016,98th,72.0,SRB,Republic of Serbia
+,1863,Saudi Arabia,2016,97th,72.2,SAU,Saudi Arabia
+,1864,Romania,2016,134th,52.9,ROU,Romania
+,1865,Spain,2016,153rd,39.8,ESP,Spain
+,1866,Slovenia,2016,160th,33.9,SVN,Slovenia
+,1867,South Korea,2016,156th,36.1,KOR,South Korea
+,1868,Somalia,2016,1st,114.0,SOM,Somalia
+,1869,South Sudan,2016,2nd,113.8,SSD,South Sudan
+,1870,Sierra Leone,2016,34th,91.0,SLE,Sierra Leone
+,1871,South Africa,2016,108th,69.9,ZAF,South Africa
+,1872,Slovak Republic,2016,144th,44.9,SVK,Slovakia
+,1873,Solomon Islands,2016,52nd,85.3,SLB,Solomon Islands
+,1874,Suriname,2016,112th,66.7,SUR,Suriname
+,1875,Swaziland,2016,44th,87.6,SWZ,Swaziland
+,1876,Syria,2016,6th,110.8,SYR,Syria
+,1877,Switzerland,2016,174th,21.8,CHE,Switzerland
+,1878,Antigua and Barbuda,2016,129th,56.2,ATG,Antigua and Barbuda
+,1879,Congo,2016,31st,92.2,COG,Republic of Congo
+,1880,Germany,2016,165th,28.6,DEU,Germany
+,1881,Guinea Bissau,2016,17th,99.8,GNB,Guinea Bissau
+,1882,Georgia,2016,72nd,78.9,GEO,Georgia
+,1883,Turkey,2016,79th,77.3,TUR,Turkey
+,1884,United Kingdom,2016,162nd,32.4,GBR,United Kingdom
+,1885,Vietnam,2016,106th,70.7,VNM,Vietnam
+,1886,Yemen,2016,4th,111.5,YEM,Yemen
+,1887,Zambia,2016,49th,86.3,ZMB,Zambia
+,1889,Uruguay,2016,155th,36.2,URY,Uruguay
+,1890,Venezuela,2016,63rd,81.6,VEN,Venezuela
+,1891,Zimbabwe,2016,16th,100.5,ZWE,Zimbabwe
+,1892,United States,2016,159th,34.0,USA,United States of America
+,1893,Brunei Darussalam,2016,123rd,62.0,BRN,Brunei
+,1894,Canada,2016,169th,23.8,CAN,Canada
+,1895,Armenia,2016,109th,69.6,ARM,Armenia
+,1896,Austria,2016,167th,27.5,AUT,Austria
+,1897,Afghanistan,2016,9th,107.9,AFG,Afghanistan
+,1898,Argentina,2016,140th,48.4,ARG,Argentina
+,1899,Bhutan,2016,78th,77.6,BTN,Bhutan
+,1900,Belgium,2016,164th,29.0,BEL,Belgium
+,1901,Bahamas,2016,137th,51.6,BHS,The Bahamas
+,1902,Bangladesh,2016,36th,90.7,BGD,Bangladesh
+,1903,Belize,2016,116th,66.0,BLZ,Belize
+,1904,Cambodia,2016,46th,87.4,KHM,Cambodia
+,1905,Cameroon,2016,22nd,97.8,CMR,Cameroon
+,1906,Guyana,2016,104th,70.9,GUY,Guyana
+,1907,Cape Verde,2016,101st,71.5,CPV,Cape Verde
+,1908,Sao Tome and Principe,2016,94th,72.9,STP,Sao Tome and Principe
+,1909,Burundi,2016,15th,100.7,BDI,Burundi
+,1910,Colombia,2016,67th,80.2,COL,Colombia
+,1911,Comoros,2016,57th,83.8,COM,Comoros
+,1912,Central African Republic,2016,3rd,112.1,CAF,Central African Republic
+,1913,Chile,2016,150th,41.9,CHL,Chile
+,1914,Costa Rica,2016,142nd,45.1,CRI,Costa Rica
+,1915,Cyprus,2016,119th,64.0,CYP,Cyprus
+,1916,Djibouti,2016,39th,89.7,DJI,Djibouti
+,1917,Equatorial Guinea,2016,53rd,85.2,GNQ,Equatorial Guinea
+,1918,Gambia,2016,48th,86.8,GMB,Gambia
+,1919,Grenada,2016,122nd,63.0,GRD,Grenada
+,1920,El Salvador,2016,96th,72.5,SLV,El Salvador
+,1921,Haiti,2016,10th,105.1,HTI,Haiti
+,1922,Guatemala,2016,61st,83.2,GTM,Guatemala
+,1923,Guinea,2016,12th,103.8,GIN,Guinea
+,1924,Israel,2016,69th,79.7,ISR,Israel
+,1925,Jordan,2016,77th,78.0,JOR,Jordan
+,1926,Kuwait,2016,126th,58.5,KWT,Kuwait
+,1927,Luxembourg,2016,168th,24.1,LUX,Luxembourg
+,1928,Madagascar,2016,56th,84.2,MDG,Madagascar
+,1929,Jamaica,2016,118th,65.0,JAM,Jamaica
+,1930,Micronesia,2016,80th,77.1,FSM,Federated States of Micronesia
+,1931,Lebanon,2016,40th,89.6,LBN,Lebanon
+,1932,Lithuania,2016,149th,42.4,LTU,Lithuania
+,1933,Malawi,2016,44th,87.6,MWI,Malawi
+,1934,Mauritius,2016,147th,43.2,MUS,Mauritius
+,1935,Lesotho,2016,66th,80.9,LSO,Lesotho
+,1936,Mauritania,2016,28th,95.4,MRT,Mauritania
+,1937,Poland,2016,152nd,40.7,POL,Poland
+,1938,Portugal,2016,163rd,29.2,PRT,Portugal
+,1939,Peru,2016,98th,72.0,PER,Peru
+,1940,Paraguay,2016,95th,72.6,PRY,Paraguay
+,1941,Philippines,2016,54th,84.7,PHL,Philippines
+,1942,Macedonia,2016,111th,67.0,MKD,Macedonia
+,1943,Tajikistan,2016,57th,83.8,TJK,Tajikistan
+,1944,Montenegro,2016,131st,55.2,MNE,Montenegro
+,1945,Rwanda,2016,32nd,91.3,RWA,Rwanda
+,1946,Samoa,2016,110th,67.6,WSM,Samoa
+,1947,Seychelles,2016,125th,60.2,SYC,Seychelles
+,1948,Singapore,2016,161st,32.9,SGP,Singapore
+,1949,Tanzania,2016,62nd,81.8,TZA,United Republic of Tanzania
+,1950,Thailand,2016,74th,78.8,THA,Thailand
+,1951,Sudan,2016,4th,111.5,SDN,Sudan
+,1952,Sri Lanka,2016,43rd,87.7,LKA,Sri Lanka
+,1953,Timor-Leste,2016,35th,90.8,TLS,Timor-Leste
+,1954,Togo,2016,51st,85.8,TGO,Togo
+,1955,Trinidad and Tobago,2016,127th,57.8,TTO,Trinidad and Tobago
+,1956,Uganda,2016,23rd,97.7,UGA,Uganda
+,1957,United Arab Emirates,2016,145th,44.5,ARE,United Arab Emirates
+,1958,Ukraine,2016,85th,75.5,UKR,Ukraine
+,1959,Netherlands,2017,167th,27.4,NLD,Netherlands
+,1960,Bolivia,2017,77th,76.8,BOL,Bolivia
+,1961,Greece,2017,127th,57.5,GRC,Greece
+,1962,Libya,2017,23rd,96.3,LBY,Libya
+,1963,Moldova,2017,98th,72.0,MDA,Moldova
+,1964,Maldives,2017,86th,74.4,MDV,Maldives
+,1965,Malaysia,2017,116th,65.4,MYS,Malaysia
+,1966,Sweden,2017,174th,22.1,SWE,Sweden
+,1967,Mongolia,2017,128th,56.7,MNG,Mongolia
+,1968,Mali,2017,31st,92.9,MLI,Mali
+,1969,Tunisia,2017,89th,74.2,TUN,Tunisia
+,1970,Qatar,2017,146th,44.0,QAT,Qatar
+,1971,Turkmenistan,2017,86th,74.4,TKM,Turkmenistan
+,1972,Azerbaijan,2017,81st,76.3,AZE,Azerbaijan
+,1973,Australia,2017,172nd,22.3,AUS,Australia
+,1974,Angola,2017,32nd,91.1,AGO,Angola
+,1975,Albania,2017,124th,60.5,ALB,Albania
+,1976,Algeria,2017,77th,76.8,DZA,Algeria
+,1977,Belarus,2017,95th,72.4,BLR,Belarus
+,1978,Barbados,2017,139th,49.6,BRB,Barbados
+,1979,Bahrain,2017,118th,64.9,BHR,Bahrain
+,1980,Benin,2017,73rd,77.6,BEN,Benin
+,1981,Bosnia and Herzegovina,2017,93rd,73.0,BIH,Bosnia and Herzegovina
+,1982,Botswana,2017,120th,63.8,BWA,Botswana
+,1983,Bulgaria,2017,132nd,53.7,BGR,Bulgaria
+,1984,Brazil,2017,110th,68.2,BRA,Brazil
+,1985,Burkina Faso,2017,44th,88.0,BFA,Burkina Faso
+,1986,Democratic Republic of the COngo,2017,7th,110.0,COD,Democratic Republic of the Congo
+,1987,China,2017,85th,74.7,CHN,China
+,1988,Chad,2017,8th,109.4,TCD,Chad
+,1989,Denmark,2017,175th,21.5,DNK,Denmark
+,1990,Cuba,2017,119th,64.6,CUB,Cuba
+,1991,Dominican Republic,2017,109th,69.0,DOM,Dominican Republic
+,1992,Czech Republic,2017,152nd,40.1,CZE,Czech Republic
+,1993,Cote d'Ivoire,2017,21st,96.5,CIV,Ivory Coast
+,1994,Croatia,2017,138th,50.6,HRV,Croatia
+,1995,Ecuador,2017,75th,77.3,ECU,Ecuador
+,1996,Egypt,2017,36th,89.8,EGY,Egypt
+,1997,France,2017,159th,33.5,FRA,France
+,1998,Fiji,2017,76th,76.9,FJI,Fiji
+,1999,Finland,2017,178th,18.7,FIN,Finland
+,2000,Estonia,2017,143rd,44.7,EST,Estonia
+,2001,Ethiopia,2017,15th,101.1,ETH,Ethiopia
+,2002,Gabon,2017,91st,73.8,GAB,Gabon
+,2003,Eritrea,2017,19th,98.1,ERI,Eritrea
+,2004,Ghana,2017,108th,69.7,GHA,Ghana
+,2005,Iran,2017,49th,85.8,IRN,Iran
+,2006,Hungary,2017,135th,52.0,HUN,Hungary
+,2007,Iceland,2017,171st,22.5,ISL,Iceland
+,2008,Indonesia,2017,94th,72.9,IDN,Indonesia
+,2009,Iraq,2017,10th,105.4,IRQ,Iraq
+,2010,India,2017,72nd,77.9,IND,India
+,2011,Italy,2017,142nd,45.2,ITA,Italy
+,2012,Ireland,2017,172nd,22.3,IRL,Ireland
+,2013,Honduras,2017,68th,79.1,HND,Honduras
+,2014,Latvia,2017,141st,46.4,LVA,Latvia
+,2015,Kenya,2017,22nd,96.4,KEN,Kenya
+,2016,Japan,2017,156th,37.4,JPN,Japan
+,2017,Kazakhstan,2017,113th,65.9,KAZ,Kazakhstan
+,2018,Kyrgyz Republic,2017,65th,80.3,KGZ,Kyrgyzstan
+,2019,Laos,2017,59th,82.4,LAO,Laos
+,2020,Liberia,2017,27th,93.8,LBR,Liberia
+,2021,Malta,2017,153rd,38.6,MLT,Malta
+,2022,Mexico,2017,88th,74.3,MEX,Mexico
+,2023,Morocco,2017,84th,74.9,MAR,Morocco
+,2024,Nigeria,2017,13th,101.6,NGA,Nigeria
+,2025,Nicaragua,2017,74th,77.4,NIC,Nicaragua
+,2026,Niger,2017,20th,97.4,NER,Niger
+,2027,New Zealand,2017,170th,22.6,NZL,New Zealand
+,2028,Myanmar,2017,35th,95.7,MMR,Myanmar
+,2029,Nepal,2017,33rd,91.0,NPL,Nepal
+,2030,North Korea,2017,30th,93.3,PRK,North Korea
+,2031,Namibia,2017,103rd,70.4,NAM,Namibia
+,2032,Mozambique,2017,40th,89.0,MOZ,Mozambique
+,2033,Norway,2017,177th,20.5,NOR,Norway
+,2034,Papua New Guinea,2017,48th,86.4,PNG,Papua New Guinea
+,2035,Pakistan,2017,17th,98.9,PAK,Pakistan
+,2036,Panama,2017,137th,50.7,PAN,Panama
+,2037,Oman,2017,133rd,52.5,OMN,Oman
+,2038,Senegal,2017,60th,82.3,SEN,Senegal
+,2039,Russia,2017,67th,79.2,RUS,Russia
+,2040,Serbia,2017,107th,70.0,SRB,Republic of Serbia
+,2041,Saudi Arabia,2017,101st,71.2,SAU,Saudi Arabia
+,2042,Romania,2017,136th,50.9,ROU,Romania
+,2043,Spain,2017,155th,37.9,ESP,Spain
+,2044,Slovenia,2017,162nd,32.4,SVN,Slovenia
+,2045,South Korea,2017,154th,38.1,KOR,South Korea
+,2046,Somalia,2017,2nd,113.4,SOM,Somalia
+,2047,South Sudan,2017,1st,113.9,SSD,South Sudan
+,2048,Sierra Leone,2017,38th,89.3,SLE,Sierra Leone
+,2049,South Africa,2017,96th,72.3,ZAF,South Africa
+,2050,Slovak Republic,2017,144th,44.3,SVK,Slovakia
+,2051,Solomon Islands,2017,52nd,84.8,SLB,Solomon Islands
+,2052,Suriname,2017,113th,65.9,SUR,Suriname
+,2053,Swaziland,2017,42nd,88.8,SWZ,Swaziland
+,2054,Syria,2017,5th,110.6,SYR,Syria
+,2055,Switzerland,2017,176th,21.1,CHE,Switzerland
+,2056,Antigua and Barbuda,2017,131st,54.8,ATG,Antigua and Barbuda
+,2057,Congo,2017,29th,93.4,COG,Republic of Congo
+,2058,Germany,2017,165th,28.1,DEU,Germany
+,2059,Guinea Bissau,2017,16th,99.5,GNB,Guinea Bissau
+,2060,Georgia,2017,79th,76.5,GEO,Georgia
+,2061,Turkey,2017,64th,80.8,TUR,Turkey
+,2062,United Kingdom,2017,160th,33.2,GBR,United Kingdom
+,2063,Vietnam,2017,105th,70.2,VNM,Vietnam
+,2064,Yemen,2017,4th,111.1,YEM,Yemen
+,2065,Zambia,2017,46th,87.8,ZMB,Zambia
+,2066,Uzbekistan,2017,63rd,81.5,UZB,Uzbekistan
+,2067,Uruguay,2017,157th,36.8,URY,Uruguay
+,2068,Venezuela,2017,58th,82.9,VEN,Venezuela
+,2069,Zimbabwe,2017,13th,101.6,ZWE,Zimbabwe
+,2070,United States,2017,158th,35.6,USA,United States of America
+,2071,Brunei Darussalam,2017,122nd,61.6,BRN,Brunei
+,2072,Canada,2017,169th,22.6,CAN,Canada
+,2073,Armenia,2017,102nd,71.0,ARM,Armenia
+,2074,Austria,2017,166th,27.7,AUT,Austria
+,2075,Afghanistan,2017,9th,107.3,AFG,Afghanistan
+,2076,Argentina,2017,140th,48.2,ARG,Argentina
+,2077,Bhutan,2017,83rd,76.0,BTN,Bhutan
+,2078,Belgium,2017,163rd,30.8,BEL,Belgium
+,2079,Bahamas,2017,134th,52.4,BHS,The Bahamas
+,2080,Bangladesh,2017,39th,89.1,BGD,Bangladesh
+,2081,Belize,2017,115th,65.5,BLZ,Belize
+,2082,Cambodia,2017,50th,85.7,KHM,Cambodia
+,2083,Cameroon,2017,26th,95.6,CMR,Cameroon
+,2084,Guyana,2017,100th,71.3,GUY,Guyana
+,2085,Cape Verde,2017,106th,70.1,CPV,Cape Verde
+,2086,Sao Tome and Principe,2017,97th,72.1,STP,Sao Tome and Principe
+,2087,Burundi,2017,17th,98.9,BDI,Burundi
+,2088,Colombia,2017,69th,78.9,COL,Colombia
+,2089,Comoros,2017,52nd,84.8,COM,Comoros
+,2090,Central African Republic,2017,3rd,112.6,CAF,Central African Republic
+,2091,Chile,2017,150th,41.1,CHL,Chile
+,2092,Costa Rica,2017,145th,44.1,CRI,Costa Rica
+,2093,Cyprus,2017,121st,62.6,CYP,Cyprus
+,2094,Djibouti,2017,41st,88.9,DJI,Djibouti
+,2095,Equatorial Guinea,2017,51st,85.0,GNQ,Equatorial Guinea
+,2096,Gambia,2017,37th,89.4,GMB,Gambia
+,2097,Grenada,2017,123rd,61.5,GRD,Grenada
+,2098,El Salvador,2017,92nd,73.1,SLV,El Salvador
+,2099,Haiti,2017,11th,105.3,HTI,Haiti
+,2100,Guatemala,2017,57th,83.1,GTM,Guatemala
+,2101,Guinea,2017,12th,102.4,GIN,Guinea
+,2102,Israel,2017,69th,78.9,ISR,Israel
+,2103,Jordan,2017,71st,78.7,JOR,Jordan
+,2104,Kuwait,2017,126th,58.5,KWT,Kuwait
+,2105,Luxembourg,2017,168th,23.4,LUX,Luxembourg
+,2106,Madagascar,2017,55th,84.0,MDG,Madagascar
+,2107,Jamaica,2017,117th,65.2,JAM,Jamaica
+,2108,Micronesia,2017,80th,76.4,FSM,Federated States of Micronesia
+,2109,Lebanon,2017,43rd,88.2,LBN,Lebanon
+,2110,Lithuania,2017,148th,41.7,LTU,Lithuania
+,2111,Malawi,2017,44th,88.0,MWI,Malawi
+,2112,Mauritius,2017,148th,41.7,MUS,Mauritius
+,2113,Lesotho,2017,62nd,81.7,LSO,Lesotho
+,2114,Mauritania,2017,28th,93.7,MRT,Mauritania
+,2115,Poland,2017,151st,40.8,POL,Poland
+,2116,Portugal,2017,164th,29.0,PRT,Portugal
+,2117,Peru,2017,104th,70.3,PER,Peru
+,2118,Paraguay,2017,99th,71.6,PRY,Paraguay
+,2119,Philippines,2017,54th,84.4,PHL,Philippines
+,2120,Macedonia,2017,112th,66.1,MKD,Macedonia
+,2121,Tajikistan,2017,61st,81.8,TJK,Tajikistan
+,2122,Montenegro,2017,130th,55.7,MNE,Montenegro
+,2123,Rwanda,2017,34th,90.8,RWA,Rwanda
+,2124,Samoa,2017,111th,67.1,WSM,Samoa
+,2125,Seychelles,2017,125th,59.4,SYC,Seychelles
+,2126,Singapore,2017,161st,32.5,SGP,Singapore
+,2127,Tanzania,2017,65th,80.3,TZA,United Republic of Tanzania
+,2128,Thailand,2017,82nd,76.2,THA,Thailand
+,2129,Sudan,2017,5th,110.6,SDN,Sudan
+,2130,Sri Lanka,2017,47th,86.6,LKA,Sri Lanka
+,2131,Timor-Leste,2017,35th,90.5,TLS,Timor-Leste
+,2132,Togo,2017,56th,83.9,TGO,Togo
+,2133,Trinidad and Tobago,2017,128th,56.7,TTO,Trinidad and Tobago
+,2134,Uganda,2017,24th,96.0,UGA,Uganda
+,2135,United Arab Emirates,2017,147th,43.7,ARE,United Arab Emirates
+,2136,Ukraine,2017,90th,74.0,UKR,Ukraine

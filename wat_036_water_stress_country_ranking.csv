@@ -1,0 +1,192 @@
+cartodb_id,wri_name,name,all_sectors
+52,Egypt,Egypt,1.327987529
+159,Republic of Serbia,Republic of Serbia,0.583519
+161,Suriname,Suriname,0.253345091
+162,Slovakia,Slovakia,0.197465692
+163,Slovenia,Slovenia,0.027711066
+164,Sweden,Sweden,1.304243204
+167,Syria,Syria,3.851932965
+26,Brunei,Brunei,0.008372069
+38,Colombia,Colombia,0.327354232
+44,Czech Republic,Czech Republic,1.134582989
+59,France,France,1.750634001
+61,Gabon,Gabon,1.559075188
+62,United Kingdom,United Kingdom,2.628114968
+187,Vietnam,Vietnam,1.008669435
+188,Vanuatu,Vanuatu,0
+112,Mexico,Mexico,3.516053768
+92,Kiribati,Kiribati,0
+131,Nepal,Nepal,2.402084479
+132,Nauru,Nauru,0
+155,Sierra Leone,Sierra Leone,0.508070552
+157,San Marino,San Marino,5
+1,Afghanistan,Afghanistan,4.009097519
+2,Angola,Angola,1.539987159
+3,Albania,Albania,1.895065503
+4,Andorra,Andorra,3.326590774
+5,United Arab Emirates,United Arab Emirates,5
+6,Argentina,Argentina,2.513094514
+74,Croatia,Croatia,0.017393729
+76,Hungary,Hungary,0.49486483
+77,Indonesia,Indonesia,3.264861142
+78,India,India,3.584886835
+79,Ireland,Ireland,2.917039654
+8,Antigua and Barbuda,Antigua and Barbuda,5
+9,Australia,Australia,3.511488236
+10,Austria,Austria,0.322035824
+11,Azerbaijan,Azerbaijan,3.391520168
+19,The Bahamas,The Bahamas,0
+20,Bosnia and Herzegovina,Bosnia and Herzegovina,0.01993265
+21,Belarus,Belarus,0.591421484
+22,Belize,Belize,1.347722344
+23,Bolivia,Bolivia,0.677154647
+24,Brazil,Brazil,0.914442268
+53,Eritrea,Eritrea,3.018732069
+67,Guinea Bissau,Guinea Bissau,0.166057843
+69,Greece,Greece,3.27257144
+70,Grenada,Grenada,0
+73,Honduras,Honduras,0.068147511
+80,Iran,Iran,4.781554087
+81,Iraq,Iraq,3.483184717
+82,Iceland,Iceland,0.136669564
+84,Italy,Italy,3.350267831
+93,Saint Kitts and Nevis,Saint Kitts and Nevis,0
+94,South Korea,South Korea,3.543805295
+96,Laos,Laos,0.014155122
+99,Libya,Libya,4.84021236
+102,Sri Lanka,Sri Lanka,3.007874921
+104,Lithuania,Lithuania,1.193841419
+106,Latvia,Latvia,0.351614149
+107,Morocco,Morocco,4.23604685
+108,Monaco,Monaco,2.664468084
+109,Moldova,Moldova,1.462672144
+110,Madagascar,Madagascar,1.247565555
+111,Maldives,Maldives,0
+178,Tuvalu,Tuvalu,0
+113,Marshall Islands,Marshall Islands,0
+119,Mongolia,Mongolia,4.046933749
+120,Mozambique,Mozambique,0.824086669
+121,Mauritania,Mauritania,0.604108712
+123,Malawi,Malawi,0.105264432
+124,Malaysia,Malaysia,2.087355521
+125,Namibia,Namibia,1.882401311
+158,Somalia,Somalia,0.455283361
+168,Chad,Chad,0.522388601
+170,Thailand,Thailand,1.698024036
+171,Tajikistan,Tajikistan,3.5280262
+172,Turkmenistan,Turkmenistan,4.29960978
+176,Tunisia,Tunisia,3.441952849
+177,Turkey,Turkey,3.020969689
+25,Barbados,Barbados,5
+7,Armenia,Armenia,3.067362647
+36,Democratic Republic of the Congo,Democratic Republic of the Congo,0.006045932
+12,Burundi,Burundi,0
+13,Belgium,Belgium,3.164518106
+14,Benin,Benin,0
+15,Burkina Faso,Burkina Faso,4.45e-06
+16,Bangladesh,Bangladesh,0.64753444
+17,Bulgaria,Bulgaria,1.265797656
+18,Bahrain,Bahrain,5
+27,Bhutan,Bhutan,0.450201544
+28,Botswana,Botswana,1.362974038
+29,Central African Republic,Central African Republic,0
+30,Canada,Canada,1.205766615
+31,Switzerland,Switzerland,1.064087164
+32,Chile,Chile,3.205366192
+33,China,China,2.944768721
+34,Ivory Coast,Ivory Coast,0.044008016
+35,Cameroon,Cameroon,0.107044034
+39,Comoros,Comoros,5
+40,Cape Verde,Cape Verde,0
+41,Costa Rica,Costa Rica,1.941371802
+42,Cuba,Cuba,3.192193495
+43,Cyprus,Cyprus,5
+45,Germany,Germany,1.895268618
+46,Djibouti,Djibouti,3.390809163
+47,Dominica,Dominica,5
+48,Denmark,Denmark,0.95293102
+49,Dominican Republic,Dominican Republic,3.487299185
+50,Algeria,Algeria,3.444266526
+51,Ecuador,Ecuador,1.860604233
+54,Spain,Spain,3.725614481
+55,Estonia,Estonia,2.750275178
+56,Ethiopia,Ethiopia,0.611776827
+57,Finland,Finland,0.982448977
+58,Fiji,Fiji,0
+60,Federated States of Micronesia,Federated States of Micronesia,0
+63,Georgia,Georgia,1.511845034
+64,Ghana,Ghana,0.108839883
+65,Guinea,Guinea,0.058241578
+165,Swaziland,Swaziland,3.105143962
+130,Norway,Norway,0.400524984
+66,Gambia,Gambia,0.416833845
+68,Equatorial Guinea,Equatorial Guinea,0.536396053
+105,Luxembourg,Luxembourg,2.508313934
+71,Guatemala,Guatemala,1.010346498
+72,Guyana,Guyana,1.77932534
+75,Haiti,Haiti,2.375955
+83,Israel,Israel,4.825385575
+85,Jamaica,Jamaica,5
+122,Mauritius,Mauritius,0
+126,Niger,Niger,0.112430873
+127,Nigeria,Nigeria,0.293372329
+128,Nicaragua,Nicaragua,1.010015863
+129,Netherlands,Netherlands,1.728848212
+86,Jordan,Jordan,4.594449768
+87,Japan,Japan,3.054321889
+88,Kazakhstan,Kazakhstan,4.018548002
+89,Kenya,Kenya,0.682811601
+90,Kyrgyzstan,Kyrgyzstan,4.821997893
+91,Cambodia,Cambodia,0.44228084
+95,Kuwait,Kuwait,4.964874491
+133,New Zealand,New Zealand,1.351785653
+134,Oman,Oman,4.913785867
+135,Pakistan,Pakistan,4.31002513
+136,Panama,Panama,0.422002909
+137,Peru,Peru,3.20160863
+138,Philippines,Philippines,3.333262336
+97,Lebanon,Lebanon,4.540996616
+98,Liberia,Liberia,0.273278189
+100,Saint Lucia,Saint Lucia,5
+101,Liechtenstein,Liechtenstein,0.462063009
+147,Russia,Russia,1.234853329
+103,Lesotho,Lesotho,3.972669119
+189,Samoa,Samoa,0
+114,Macedonia,Macedonia,2.645752234
+115,Mali,Mali,0.204415117
+116,Malta,Malta,5
+117,Myanmar,Myanmar,0.303092379
+118,Montenegro,Montenegro,0.308810807
+160,Sao Tome and Principe,Sao Tome and Principe,0
+139,Palau,Palau,0
+140,Papua New Guinea,Papua New Guinea,0.596268378
+141,Poland,Poland,1.307267036
+142,North Korea,North Korea,2.059944861
+143,Portugal,Portugal,3.338300161
+144,Paraguay,Paraguay,0.011150345
+145,Qatar,Qatar,5
+146,Romania,Romania,0.835612236
+148,Rwanda,Rwanda,0
+149,Saudi Arabia,Saudi Arabia,4.992350923
+150,Sudan,Sudan,0.912859496
+151,South Sudan,South Sudan,0
+152,Senegal,Senegal,0.21481397
+153,Singapore,Singapore,5
+154,Solomon Islands,Solomon Islands,0
+156,El Salvador,El Salvador,1.494649349
+190,Yemen,Yemen,4.674046102
+191,South Africa,South Africa,3.040457185
+192,Zambia,Zambia,0.07768468
+193,Zimbabwe,Zimbabwe,0.64041833
+166,Seychelles,Seychelles,0
+169,Togo,Togo,0.120468399
+174,Tonga,Tonga,0
+175,Trinidad and Tobago,Trinidad and Tobago,5
+179,United Republic of Tanzania,United Republic of Tanzania,1.498342011
+180,Uganda,Uganda,0.000342989
+181,Ukraine,Ukraine,2.095905385
+182,Uruguay,Uruguay,0.863199369
+183,United States of America,United States of America,2.888310471
+184,Uzbekistan,Uzbekistan,4.316671945
+185,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,5
+186,Venezuela,Venezuela,2.299918259
